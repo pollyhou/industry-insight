@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+2:I[1213,["619","static/chunks/619-ba102abea3e3d0e4.js","213","static/chunks/213-a7ed1ac5e286a01c.js","177","static/chunks/app/layout-ed0a1284ddf7724e.js"],"TermProvider"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],""]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/industry-insight/_next/static/css/1155040eca829c36.css","style"]
+0:{"P":null,"b":"asWnaL95YWzqsFq9Br74e","p":"/industry-insight","c":["","job","drug-discovery-scientist",""],"i":false,"f":[[["",{"children":["job",{"children":[["slug","drug-discovery-scientist","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/industry-insight/_next/static/css/1155040eca829c36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container site-header__inner","children":[["$","$L3",null,{"href":"/","className":"site-header__brand","children":["行业认知科普",["$","small",null,{"children":"先看清一个行业，再决定要不要去"}]]}],["$","div",null,{"className":"site-header__nav","children":[["$","$L3",null,{"href":"/#jobs","className":"chain-chip","children":"岗位大全"}],["$","$L3",null,{"href":"/search","className":"chain-chip","children":"搜索"}]]}]]}]}],["$","main",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"行业认知科普 · 面向求职者的行业全景速览 · 内容仅供参考，不构成任何建议"}]}]]}]}]}]]}],{"children":["job",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","drug-discovery-scientist","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],"default"]
+12:T3242,
+## 1. 岗位一句话定义
+
+新药研发科学家（Drug Discovery Scientist）是**在实验室里"找分子"的人**：围绕一个致病[[靶点]]，设计和筛选出能安全有效干预它的化合物或生物大分子，把它一步步优化成候选药物，推进到临床前研究，直到够格进入[[临床试验]]。
+
+一句话：**别人关心"药卖得怎么样"，他关心"这个分子到底能不能治病、值不值得投入巨资去做临床"**——一款[[创新药]]的起点，就在他的实验台上。
+
+它在行业里的位置：新药研发链条 = 靶点发现 → 化合物筛选 → 先导优化 → 临床前研究（药效/毒理/药代）→ [[IND]] 申报 → I/II/III 期临床 → [[NDA]] 上市。研发科学家处在这条链条最上游，决定"做什么药"；下游的临床监查员（CRA）、医学事务、注册（RA）、工艺（CMC）都接他的"接力棒"。常见方向有小分子药物（化学/药化）、生物大分子（单抗/双抗/[[ADC]]）、细胞治疗（[[CAR-T]]）、核酸药物（siRNA/mRNA）等。
+
+## 2. 一天真实体验
+
+**一个普通工作日（以肿瘤领域小分子研发科学家为例）：**
+
+- 08:45 到实验室，换白大褂、戴护目镜，先翻昨天的**电子实验记录本（ELN）**：上一批化合物的活性数据回来了没有、细胞状态好不好。
+- 09:00 开**项目组会**：汇报本周候选分子的活性与选择性数据，讨论"哪个结构值得继续改"。研发的会往往围绕一张张数据表展开，比谁的数字"能打"。
+- 09:45 进**细胞房/实验台**：细胞传代、铺板，准备今天下午的活性测试；同时给化合物库上样，跑一轮酶活筛选。
+- 11:00 **读文献、查专利**：看竞品同类靶点最近发在哪、有没有新的耐药机制报道——不看文献就会做重复劳动，这是研发科学家的硬功夫。
+- 12:00 午饭，常和同事边吃边聊"某某靶点最近很热""某篇 Nature 文章的方法能不能用"。
+- 13:30 **高通量筛选/数据分析**：从几千个化合物里挑出有活性的"苗子"，用软件处理曲线、算 IC50，判断哪个先导化合物值得优化。
+- 15:00 和**化学/生物同事对数据**：结构改一个基团，活性掉十倍还是升三倍？做药物化学的同事负责"改结构"，生物方向的科学家负责"测表现"，两边来回拉扯是常态。
+- 16:30 写**实验记录、更新 ELN**：科研要求"原始数据可追溯"，任何结论都要有记录支撑，不能凭印象。
+- 17:30 去**动物房**看一组药代动力学（PK）样品：化合物进了小鼠体内浓度掉得快不快、半衰期多长——这决定它有没有可能做成一天吃一次的药。
+- 18:30 补实验：约好的仪器排队到晚上，或要把一批样品跑完才能走。
+- 19:30 结束工作，回家路上还在想"明天那个结构怎么改"。
+
+**真实感提醒**：新药研发是最"反内卷也最卷"的岗位——表面不打卡、氛围自由，但**90% 的实验结果是"没效果"，一个靶点做三五年可能只筛出一个候选分子，还可能在临床阶段失败**。日常大量时间是失败的重复劳动 + 读文献想思路 + 跟同行吵数据。**耐得住长期没有正反馈、对未知真正好奇、能把失败数据当线索的人**，才做得下去；一旦做出一款上市药，成就感和回报都极高。
+
+## 3. 核心职责
+
+- **靶点调研与立项**：阅读文献与数据库，判断某个[[靶点]]是否"可成药"、竞争格局如何，写出立项报告，决定公司要不要投这个方向。
+- **化合物/分子筛选**：用[[高通量筛选]]、虚拟筛选、结构生物学等手段，从海量分子中找出能与靶点结合、有活性的"苗子"。
+- **先导化合物优化**：与药物化学团队协作，反复改结构、测活性、看选择性、查代谢稳定性，把"能结合"优化成"能成药"。
+- **体外与体内药理实验**：设计并执行细胞实验、动物模型的药效与药代实验，验证分子在真实生物系统里的表现。
+- **临床前安全性评估**：配合毒理团队做安全性研究，确认候选分子没有明显不可接受的毒性，为[[IND]] 申报提供数据包。
+- **专利与发表**：把关键发现写成专利或论文，保护公司知识产权，也是个人成果的直接体现。
+- **跨部门协作**：把候选分子交给 CMC（工艺）和临床团队，讲清楚它的特性和风险，支持后续开发。
+
+## 4. 任职要求
+
+**硬门槛：**
+- 学历：硕士起步，博士是主流——早期发现岗高度依赖科研训练与文献深度；药学、药化、生物学、分子生物学、免疫学、化学等专业对口。
+- 经验：硕士多从助理研究员/研究助理入行；博士（含博士后）可直接进科学家序列；有海外实验室或顶级期刊发表经历是重要加分。
+- 技能：掌握细胞培养、分子克隆、蛋白表达纯化、酶活/细胞活性检测等实验技术；会看结构、会用数据分析软件；英文文献读得快、写得了英文报告。
+- 证书/合规：涉及动物实验需相应资质与培训；实验记录、生物安全、伦理规范是底线要求。
+
+**软性判断：**
+- 科研好奇心与自驱力：没人给你派活到每一小时，能不能自己找方向、追根问底，是面试官最看重的。
+- 抗挫折能力：实验十做九不成，能不能把失败当数据、不改初心。
+- 数据诚实：科研容不得造假，能不能如实报告"没效果"，是生死线。
+- 沟通与协作：研发不是单打独斗，要能跟化学、药理、毒理、CMC 讲清楚"我发现了什么、需要你做什么"。
+
+> 这几年创新药行业从"讲故事"转向"拼真数据"，**能拿出扎实实验能力和真实数据的候选人，比只会背概念的更值钱**；反过来，简历注水、数据造假在行业里是"一次失信、终身受限"。
+
+## 5. 需要锻炼的技能
+
+**硬技能：**
+- **实验技术（细胞/分子/生化）**：细胞培养、WB/ELISA、qPCR、流式、酶活测定等是基础。练法：读实验方法学教材，进实验室动手做完整实验并写可复现的记录。
+- **文献阅读与检索**：能快速判断一篇论文的可信度与启发点。练法：每周精读 2-3 篇本领域顶刊论文，用 PubMed/Google Scholar 建自己的文献库。
+- **数据分析与统计**：剂量-反应曲线、IC50、显著性判断。练法：用 GraphPad Prism 或 R/Python 做真实数据集练习。
+- **结构生物学/药物化学基础**：看得懂靶点蛋白结构、理解"构效关系"。练法：用 PDB 数据库看同类药物与靶点的结合方式。
+- **英文写作**：专利、论文、报告都靠它。练法：坚持用英文写实验周报，模仿目标期刊的写作结构。
+
+**软技能：**
+- **项目管理**：一个项目要排几个月的实验计划。练法：用甘特图管理自己的课题，练习拆解里程碑。
+- **跨专业沟通**：把生物语言翻译成化学语言、再翻译成临床语言。练法：试着把一篇复杂论文讲给非本专业的同学听。
+- **耐心与复盘点**：定期回顾"哪条路走不通、该换方向了"。练法：每月写一次课题复盘，记录失败与假设的更新。
+- **合规与伦理意识**：动物实验、生物样本管理都有规范。练法：认真参加实验室安全与伦理培训，把规范当习惯。
+
+## 6. 代表雇主
+
+- **恒瑞医药**：国内创新药龙头，早期发现体系完整，小分子与生物药并重，适合想在国内头部做源头创新的人。
+- **百济神州**：全球化研发，肿瘤管线丰富，早期研发投入大，能接触国际标准的项目流程。
+- **药明康德**：CXO 龙头，为新药发现提供全链条服务，岗位量大、技术平台多，是应届生入行的"练兵场"。
+- **信达生物、君实生物**：生物药创新企业代表，单抗、双抗、[[ADC]] 等方向机会多，项目节奏快。
+- **跨国药企（辉瑞、罗氏、阿斯利康等）**：全球研发体系规范、培训完善，对英语和科研背景要求更高。
+- **高校/科研院所/新型研发机构**：偏基础研究与转化，适合想兼顾学术发表的人。
+
+## 7. 职业发展路径
+
+- **入门（0-3 年）助理研究员/研究科学家**：在资深同事的课题里承担实验执行与部分设计，练实验手感和文献功底。
+- **进阶（3-6 年）科学家/高级科学家**：独立负责一个靶点或一个模块，能带 1-3 人小团队，开始对项目节点负责。
+- **资深（6-10 年）首席科学家/研发总监/项目负责人**：统筹整条管线的立项与推进，参与公司研发战略，承担"做不做得成"的责任。
+- **转型方向**：可转——[[CMC]] 工艺开发、临床开发（临床科学）、转化医学、BD（商务拓展，懂科学又懂交易的稀缺人才）、注册（RA）、投资与产业研究。
+
+## 8. 薪资区间
+
+| 档位 | 月薪参考（税前，15-16 薪常见） | 说明 |
+|---|---|---|
+| 助理研究员/应届硕士 | 10-18K | 国内药企/CXO 起步区间，CXO 与药企差异较大 |
+| 科学家（博士 2-5 年） | 25-40K | 视平台与项目；博士起薪明显高于硕士 |
+| 高级科学家/研发总监 | 45K-80K+ | 对管线结果负责，头部药企与外资更高，常含期权/奖金 |
+
+> 以上为 2026 年医药招聘平台与 offer 样本的常见区间，实际以实时招聘信息为准。薪资受学历（博士溢价明显）、专业方向（ADC/细胞治疗等热门赛道溢价）、平台（外资>头部内资>CXO）、城市（上海、苏州、北京为主）影响很大。
+
+## 9. 面试高频问题
+
+**Q1："讲一个你做过的课题，你是如何设计实验、遇到什么失败、最后结论是什么？"（几乎必考）**
+思路：①按"问题→假设→实验设计→数据→结论"的结构讲，突出你的思考而非流水账；②主动讲失败与如何调整，展示科研韧性；③说清你在课题里的具体贡献，不要用"我们"糊过去；④能解释关键方法学为什么这么选。
+
+**Q2："你怎么判断一个靶点值不值得做？"（考察立项思维）**
+思路：①从"生物学证据是否扎实"入手（遗传学、临床样本、动物模型是否支持）；②看"可成药性"（有没有合适的结合口袋、同类药成败经验）；③看竞争格局与未满足需求（已有多少玩家、差异化在哪）；④坦诚风险：靶点验证失败率极高，立项要"赌概率"。
+
+**Q3："如果一个化合物的活性很好，但药代很差，你会怎么办？"（考察综合判断）**
+思路：①先明确是"结构问题"还是"检测问题"；②与药化团队讨论改结构（提高代谢稳定性、改善渗透性）；③考虑前药、制剂或给药途径等策略；④如果多轮尝试都不行，果断判断这个系列是否值得放弃。
+
+**Q4："你了解 IND 申报需要哪些数据吗？"（考察行业流程认知）**
+思路：①IND 是新药进入临床前必须向监管机构提交的申请，需提供药学、药理毒理、临床方案等资料；②具体申报资料要求须按现行法规要求执行；③说明研发科学家在其中提供药理毒理与药学研究数据的角色；④表达你理解"数据质量决定申报成败"。
+
+> 参考思路为医药行业通用面试方法论整理，数据口径同前文各模块。
+
+---
+
+## 术语速览表
+
+| 术语 | 通俗解释 |
+|---|---|
+| [[创新药]] | 具有自主知识产权、首次获批上市的新药，研发周期长、投入大，一旦成功回报极高 |
+| [[靶点]] | 药物体内作用的"靶子"（多为蛋白/基因），找到并验证靶点是新药研发的第一步 |
+| [[高通量筛选]] | 用自动化设备一次性测试成千上万个化合物对靶点的活性，快速从"分子海"里找苗子 |
+| [[先导化合物]] | 筛选出的有活性、可作为优化起点的分子，后续靠反复改结构把它变成候选药物 |
+| [[临床前研究]] | 进入人体试验前在细胞和动物上做的药效、药代、毒理研究，是 IND 申报的数据基础 |
+| [[IND]] | Investigational New Drug，新药临床试验申请：向监管机构申请开展人体试验，获批后才能进临床 |
+| [[NDA]] | New Drug Application，新药上市申请：临床试验成功后向监管机构申请批准上市 |
+| [[ADC]] | 抗体偶联药物："生物导弹"，用抗体把化疗药精准带到肿瘤细胞，近年出海最活跃的赛道之一 |
+| [[CRO]] | 合同研究组织：为药企提供药物发现与临床试验等外包服务的公司（如药明康德） |
+
+> 速览表术语释义综合自医药研发行业通用概念与公开资料。6:["$","article",null,{"className":"page-body","children":[["$","$L3",null,{"className":"back-link","href":"/","children":"← 返回行业列表"}],["$","header",null,{"style":{"marginTop":12},"children":[["$","h1",null,{"style":{"fontSize":28,"margin":0},"children":["新药研发科学家",["$","span",null,{"className":"muted","style":{"fontSize":15,"fontWeight":400,"marginLeft":10},"children":"Drug Discovery Scientist"}]]}],["$","p",null,{"className":"muted","style":{"marginTop":4},"children":"在实验室里找到能治病的分子的人"}]]}],["$","section",null,{"className":"job-meta","style":{"margin":"16px 0"},"children":[["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"所属行业"}],["$","$L3",null,{"href":"/industry/biopharma","className":"chain-chip","children":["生物医药"," →"]}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"入行层级"}],["$","strong",null,{"children":"进阶"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"薪资区间"}],["$","strong",null,{"children":"20-45K·13-16薪"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"学历要求"}],["$","strong",null,{"children":"硕士及以上，药学/生物学/化学/医学相关专业"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"经验门槛"}],["$","strong",null,{"children":"硕士可从助理研究员入行，博士/博士后是主流；3-5 年独立带项目"}]]}],["$","div",null,{"className":"job-meta__item job-meta__item--full","children":[["$","span",null,{"className":"job-meta__label","children":"代表雇主"}],["$","div",null,{"className":"tags","children":[["$","span","恒瑞医药",{"className":"tag","children":"恒瑞医药"}],["$","span","百济神州",{"className":"tag","children":"百济神州"}],["$","span","药明康德",{"className":"tag","children":"药明康德"}],["$","span","信达生物",{"className":"tag","children":"信达生物"}],["$","span","君实生物",{"className":"tag","children":"君实生物"}]]}]]}]]}],["$","$L11",null,{"content":"$12"}],"$L13"]}]
+13:["$","section",null,{"style":{"marginTop":32,"paddingBottom":24},"children":[["$","h2",null,{"className":"module-title","children":["相关岗位 ",["$","code",null,{"children":[4," 个"]}]]}],["$","div",null,{"className":"tags","children":[["$","$L3","pharma-process-engineer",{"href":"/job/pharma-process-engineer","className":"job-chip","children":"工艺工程师（CMC）"}],["$","$L3","biostatistician",{"href":"/job/biostatistician","className":"job-chip","children":"生物统计师"}],["$","$L3","cra",{"href":"/job/cra","className":"job-chip","children":"临床监查员（CRA）"}],["$","$L3","medical-affairs",{"href":"/job/medical-affairs","className":"job-chip","children":"医学事务经理"}]]}],["$","p",null,{"style":{"marginTop":16},"children":["$","$L3",null,{"href":"/industry/biopharma","className":"chain-chip","children":["查看「","生物医药","」全部岗位 →"]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"新药研发科学家（生物医药） | 行业认知科普"}],["$","meta","1",{"name":"description","content":"新药研发科学家做什么、一天怎么过、要求什么、怎么入行：从靶点确定、化合物筛选到先导优化、临床前研究，一文看清创新药发现阶段的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","2",{"name":"keywords","content":"新药研发,药物发现,研发科学家,靶点,化合物筛选,临床前研究,创新药,生物医药,实验室"}],["$","meta","3",{"property":"og:title","content":"新药研发科学家：岗位一天体验与入行指南"}],["$","meta","4",{"property":"og:description","content":"新药研发科学家做什么、一天怎么过、要求什么、怎么入行：从靶点确定、化合物筛选到先导优化、临床前研究，一文看清创新药发现阶段的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"新药研发科学家：岗位一天体验与入行指南"}],["$","meta","8",{"name":"twitter:description","content":"新药研发科学家做什么、一天怎么过、要求什么、怎么入行：从靶点确定、化合物筛选到先导优化、临床前研究，一文看清创新药发现阶段的真实工作、必备技能、薪资区间与面试思路。"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

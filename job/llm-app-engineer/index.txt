@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[1213,["619","static/chunks/619-ba102abea3e3d0e4.js","213","static/chunks/213-a7ed1ac5e286a01c.js","177","static/chunks/app/layout-ed0a1284ddf7724e.js"],"TermProvider"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],""]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/industry-insight/_next/static/css/1155040eca829c36.css","style"]
+0:{"P":null,"b":"asWnaL95YWzqsFq9Br74e","p":"/industry-insight","c":["","job","llm-app-engineer",""],"i":false,"f":[[["",{"children":["job",{"children":[["slug","llm-app-engineer","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/industry-insight/_next/static/css/1155040eca829c36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container site-header__inner","children":[["$","$L3",null,{"href":"/","className":"site-header__brand","children":["行业认知科普",["$","small",null,{"children":"先看清一个行业，再决定要不要去"}]]}],["$","div",null,{"className":"site-header__nav","children":[["$","$L3",null,{"href":"/#jobs","className":"chain-chip","children":"岗位大全"}],["$","$L3",null,{"href":"/search","className":"chain-chip","children":"搜索"}]]}]]}]}],["$","main",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"行业认知科普 · 面向求职者的行业全景速览 · 内容仅供参考，不构成任何建议"}]}]]}]}]}]]}],{"children":["job",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","llm-app-engineer","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],"default"]
+12:T3879,
+## 1. 岗位一句话定义
+
+大模型应用工程师是**用大模型 API 或开源模型，把 AI 能力接进真实产品并让它稳定、好用、成本可控的人**。传统算法工程师造"模型"这辆车，大模型应用工程师想的是"怎么让这辆车在真实路况里跑起来"：怎么设计 Prompt、怎么接入企业知识库、怎么让 AI 自己调用工具完成多步任务。
+
+一句话：**大模型应用工程师不需要从零训练模型，而是把现成的模型能力"组装"成用户能用的产品功能**——客服机器人、AI 写作助手、智能编程助手、企业知识问答，背后都是这一类人在做。
+
+它在行业里的位置：2025 年 DeepSeek 开源把推理成本打到极低后，行业从"卷模型参数"转向"卷应用落地"。大模型应用工程师成为连接"模型能力"与"业务场景"的桥梁，是当前互联网与 AI 行业**新增岗位最多、招人最急的方向之一**。
+
+## 2. 一天真实体验
+
+**一个普通工作日（以某大厂/独角兽的大模型应用工程师为例）：**
+
+- 09:30 到公司，先看**线上效果与成本监控**：昨晚 AI 客服的调用量、平均响应延迟、单次调用成本、用户"不满意率"有没有异常。昨天一个 Prompt 改动后"答非所问"比例从 3% 涨到 8%，标记待处理。
+- 10:00 开**每日站会**：同步各自功能进展。你负责的"智能助手接入企业知识库"今天要过联调，先确认后端接口和知识库索引都就绪。
+- 10:30 写**Prompt 与流程编排**：优化客服场景的 Prompt——加角色设定、few-shot 示例、输出格式约束，并在测试集上对比"加 few-shot 前后"的准确率。
+- 11:30 处理**RAG 召回问题**：用户问了一个产品手册里有的问题，模型却答错了。排查发现知识库切分粒度太粗，文档被切成大块导致召回不精准。调整分块策略，重跑召回评测。
+- 12:30 午饭。
+- 14:00 设计 **Agent 工作流**：产品说要做一个"能自动查库存、写文案、提交审批"的智能体。你用工作流引擎把"意图识别→调用库存 API→生成文案→输出审批单"编排起来，画流程图、定义每步的输入输出与兜底。
+- 15:30 和**算法/后端同事对接口**：确认模型调用的超时、重试、限流策略；讨论"模型输出 JSON 偶尔不合法怎么兜底"。
+- 16:30 写**评测用例**：建立这个功能的评测集（50-100 个典型 question-answer 对），跑一轮离线评测，把准确率从 82% 提到 87%，记录到评测报告。
+- 17:30 看**成本优化**：把不重要的历史对话改成缓存命中，估算每月能省多少 Token 费用，向 leader 汇报方案。
+- 19:00 提交代码，写好实验记录与上线 checklist，下班。
+
+**真实感提醒**：很多人以为这是"写 Prompt 就能拿高薪"的岗位，真实情况是——**Prompt 只是最表层，RAG 召回、Agent 编排、模型评测、成本控制、稳定性兜底才是日常大头**。模型输出是不可 100% 确定的，你要设计"失败时怎么办"的兜底链路。另外这项技术迭代极快，今天的最佳实践下个月可能就被新模型/新框架颠覆，学习压力是真实存在的。
+
+## 3. 核心职责
+
+- **场景分析与方案设计**：和产品经理一起判断"这个业务问题适不适合用大模型解决"——用 API 还是开源模型、用对话还是 Agent 工作流、需要接入哪些数据。
+- **Prompt 工程**：针对具体场景设计系统提示词、few-shot 示例、输出格式约束；建立 Prompt 版本管理与回归评测机制，避免"改了这里坏了那里"。
+- **RAG 检索增强**：搭建"知识库→切分→向量化→召回→重排→送模型"的完整链路，让模型基于企业私有知识回答，解决大模型"不知道、胡说"的问题。
+- **Agent 编排**：用工作流/框架（如 LangChain、Coze、自研引擎）把模型与工具调用（查数据库、调 API、操作软件）编排成能自主完成多步任务的智能体，并设计每一步的异常与兜底。
+- **模型评测与质量保障**：建立评测集与自动化评测（准确率、拒答率、格式合规率、安全合规），用数据而不是感觉判断"新 Prompt/新模型版本能不能上"。
+- **性能与成本优化**：控制 Token 消耗（缓存、压缩、模型路由：简单问题用小模型、复杂问题用大模型），保证延迟与成本在可接受范围。
+- **安全合规落地**：处理幻觉风险、敏感信息泄露、内容安全审核，满足生成式 AI 备案与内容标识等监管要求。
+
+## 4. 任职要求
+
+**硬门槛（新手）：**
+- 学历：本科起步，计算机、软件、数学等理工科优先；但这是互联网技术岗里**最不卡学历的方向之一**——"能落地"比"科班出身"重要。
+- 经验：0-3 年皆可入；校招看重"自己动手做过 AI 应用"（搭过 Agent、做过 RAG 问答、写过调用大模型的 demo），实习是加分项。
+- 技能：Python 是主力语言，会基础工程（HTTP、JSON、数据库、Git）；熟悉大模型 API（OpenAI/通义/豆包/DeepSeek 等）的调用与调参；用过至少一个 RAG/Agent 框架。
+- 基础：懂一些机器学习/深度学习的常识（不要求自己训练模型），能读懂模型效果报告。
+
+**软性判断（面试官真正在考察的）：**
+- 解决问题思维：AI 答错了，你的第一反应是"换个 Prompt 试试"，还是"先分析问题出在召回、生成还是解析哪个环节"。
+- 工程严谨性：有没有兜底思维——模型超时、输出格式错误、API 挂了你的产品会怎样。
+- 学习速度：面对 3 个月换一代的技术栈，能不能快速上手。
+- 业务 Sense：清楚"这个 AI 功能给业务带来什么价值"，而不是"为了实现 AI 而 AI"。
+
+> 这个岗位最大的特点：**作品与动手能力 > 学历与 title**。面试官非常愿意看到你"自己搭过的东西"——哪怕是周末做的一个 AI 问答机器人，完整讲清技术选型、遇到什么问题、怎么解决，胜过大段背书。
+
+## 5. 需要锻炼的技能
+
+**硬技能：**
+- **Prompt 工程**：系统提示词、few-shot、输出约束（JSON 模式）的原理与调优。练法：找 3 个常用场景（写作、问答、抽取）各写 10 版 Prompt，建立自己的"什么改动影响什么"清单。
+- **RAG 链路**：文档切分、Embedding 向量化、向量检索、重排的原理与工程实现。练法：用开源工具链（如 LangChain + 向量库）搭一个"问答你读过的一本书"的小系统，故意把召回调差再调好，体会每个环节的影响。
+- **Agent 编排**：工具调用（Function Calling）、多步工作流的编排与容错。练法：做一个"能查天气+记提醒"的 Agent，手动加一步"失败重试"，理解结构性兜底。
+- **Python 工程**：HTTP 服务（FastAPI 等）、并发、缓存、日志。练法：把自己做的 AI demo 封装成带接口的小服务，加超时与重试。
+- **评测与成本**：评测集设计、指标定义、Token 成本估算。练法：给任意一个 AI 功能写 30 条评测用例并手工打分，再算清"每天 10 万次调用要花多少钱"。
+
+**软技能（更值钱）：**
+- **拆解问题**：把"AI 不好用"拆成"是召回没召回对 / 生成没按格式 / 业务规则没兜住"。练法：坚持用"先定位环节，再动手改"的方式排查每个 AI 问题。
+- **与产品/业务沟通**：能把技术方案的边界讲清楚（"AI 能做什么、不能做什么、要有兜底"）。练法：试着给非技术朋友讲懂"为什么 AI 偶尔会胡说"。
+- **持续学习**：技术 3 个月一变。练法：固定每周精读 1 篇最新技术分享/官方文档，并动手复现一个点。
+
+## 6. 代表雇主
+
+- **字节跳动**：豆包、扣子（Coze）等大模型应用与平台产品，应用工程师需求量大、场景丰富。
+- **百度**：文心千帆、智能体平台方向密集，B 端企业级 AI 应用落地多。
+- **阿里巴巴**：通义千问与企业级 AI 应用（钉钉 AI、客服、办公）场景多，B 端落地完整。
+- **腾讯**：元宝（腾讯混元 C 端应用）及各业务线的 AI 化改造，应用岗位多。
+- **AI 独角兽（月之暗面、智谱、MiniMax、DeepSeek 生态）**：直接做大模型产品的应用层，技术氛围浓、成长快。
+- **各行业数字化转型公司/中大型企业**：SaaS 厂商与行业公司都在招"AI 应用工程师"做内部提效工具，机会面比纯互联网更宽。
+
+## 7. 职业发展路径
+
+- **入门（0-3 年）应用工程师**：做 Prompt、RAG 问答、简单 Agent，跟业务方把"一个 AI 功能"从头到尾落地上线。核心任务：把一条链路做扎实、学会评测与兜底。
+- **进阶（3-5 年）高级应用工程师/技术 lead**：负责一类业务场景的 AI 方案架构（客服、创作、办公提效），主导 RAG/Agent 架构选型，优化成本与效果。核心任务：从"做一个功能"到"设计一套可复用的能力底座"。
+- **资深（5-10 年）AI 应用架构师/负责人**：负责公司级 AI 中台或核心产品线的 AI 架构，规划模型引入策略（API vs 开源 vs 微调）、治理评测体系、带团队。核心任务：让 AI 能力成为组织的"基础设施"。
+- **转型方向**：大模型应用工程师是当前横向跳槽最容易的岗位之一——可转 AI 产品经理（懂技术+懂场景）、转大模型算法（往模型侧深入）、转后端/全栈（工程能力扎实的）、甚至转行业解决方案架构师（向客户交付 AI 方案，收入更看业绩弹性）。
+
+## 8. 薪资区间
+
+| 档位 | 年薪参考（税前） | 说明 |
+|---|---|---|
+| 校招/初级应用工程师 | 20-35 万 | 大厂普遍 15-16 薪；独角兽或 AI 明星团队弹性更大 |
+| 3-5 年高级应用工程师 | 40-70 万 | 视公司与业绩；AIGC 创业公司常给期权 |
+| AI 应用架构师/负责人 | 80 万+ | 头部公司或独角兽核心团队可更高 |
+
+> 以上为 2026 年主流招聘平台与 offer 样本的常见区间，**以实时招聘信息为准，2026 年区间参考**。整体略低于纯算法岗，但高于传统后端；由于供需缺口大、转入门槛相对低，是"懂工程的人快速切入 AI 赛道"的性价比选择。城市、公司量级与是否带管理职责是主要浮动因素。
+
+## 9. 面试高频问题
+
+**Q1："说说你做过的一个 AI 应用项目？"（几乎必考，考察真实动手能力）**
+思路：按"做什么场景→为什么用大模型→技术方案（Prompt/RAG/Agent 怎么选）→遇到的最大问题→怎么解决→上线效果与成本"讲；重点突出你**亲自踩过的坑**（如"模型输出 JSON 格式不稳定，我加了正则兜底"），这比堆技术名词更打动人。
+
+**Q2："什么是 RAG？和微调（Fine-tuning）有什么区别？什么时候用哪个？"（基础必考）**
+思路：RAG = 检索外部知识→拼接进 Prompt→让模型基于知识回答，适合"知识要实时更新、要可溯源"的场景；微调 = 用数据改变模型行为/风格，适合"要稳定学某种格式、行为"的场景。给出选择逻辑：知识更新频繁用 RAG、要学习专有格式/语气用微调、两者可结合。最后落一句"实际我会先用 RAG 验证价值，成本低、迭代快"。
+
+**Q3："模型回答准确率只有 80%，你怎么把它提高到 90%？"（考察排查思维）**
+思路：不要一上来就说"换更大的模型"。按链路排查：①先建立评测集，量化错误分布（是召回没召回对、还是生成了错误内容）；②RAG 侧优化（切分、embedding、重排、检索数量）；③Prompt 侧优化（few-shot、约束格式、要求引用来源）；④业务侧兜底（低置信度就转人工/拒答）；⑤最后才考虑换模型或做微调，因为成本高。展示"用数据定位环节"的工程思维。
+
+**Q4："让你评估要不要把某个功能从'规则/小模型'换成大模型，你怎么决策？"（考察商业与技术判断）**
+思路：列评估维度：①效果上限是否真的有提升空间；②成本（Token 费用可能暴涨，要算 ROI）；③延迟能不能接受；④稳定性与合规风险（幻觉、数据出域）；⑤迁移成本。结论要落到"先小流量 A/B 验证，用数据说话"。
+
+**Q5："大模型输出胡说八道（幻觉）怎么办？"（高频追问）**
+思路：承认幻觉无法根除只能缓解，从三层给方案：①输入侧——RAG 给它可靠的资料、Prompt 约束"不知道就说不知道"、限制不相关回答；②输出侧——要求给出可溯源的引用、用内容审核过滤；③产品侧——展示免责与"转人工/重试"兜底。最后补一句"幻觉率要用评测集持续监控，因为模型版本升级也可能引入新幻觉"。
+
+> 参考思路为行业通用面试方法论整理，数据口径同前文各模块。
+
+---
+
+## 术语速览表
+
+| 术语 | 通俗解释 |
+|---|---|
+| [[大模型]] | 参数规模巨大、经过海量数据训练的深度学习模型，具备理解与生成能力，是 AI 应用的基础 |
+| [[Token]] | 大模型处理文本的最小单元（可理解为词元），按 Token 计费直接决定 AI 应用的调用成本 |
+| [[RAG]] | 检索增强生成：先把外部知识检索出来再让模型基于它回答，解决大模型"不知道、胡说"的问题 |
+| [[AI Agent]] | AI 智能体：不仅能对话，还能自主规划、调用工具、执行多步任务，是应用层最热的方向 |
+| [[MaaS]] | 模型即服务：把大模型能力封装成 API 按调用量收费，是应用工程师最常用的接入方式 |
+| [[微调]] | Fine-tuning，用少量业务数据继续训练模型，让它学会特定格式、语气或领域知识 |
+| [[算力]] | 计算能力，AI 训练与推理的核心资源；对应用工程师来说主要体现为 API 调用成本与响应速度 |
+| [[AIGC]] | AI 生成内容：AI 创作文字、图片、视频等，是多数 AI 应用的产品形态 |
+| [[开源模型]] | 公开权重、可自由部署的大模型（如 DeepSeek、Qwen），让企业可以在私有环境部署 AI 应用 |
+
+> 速览表术语释义综合自互联网行业通用概念与公开资料。6:["$","article",null,{"className":"page-body","children":[["$","$L3",null,{"className":"back-link","href":"/","children":"← 返回行业列表"}],["$","header",null,{"style":{"marginTop":12},"children":[["$","h1",null,{"style":{"fontSize":28,"margin":0},"children":["大模型应用工程师",["$","span",null,{"className":"muted","style":{"fontSize":15,"fontWeight":400,"marginLeft":10},"children":"LLM Application Engineer"}]]}],["$","p",null,{"className":"muted","style":{"marginTop":4},"children":"把大模型接进真实产品的人"}]]}],["$","section",null,{"className":"job-meta","style":{"margin":"16px 0"},"children":[["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"所属行业"}],["$","$L3",null,{"href":"/industry/internet-ai","className":"chain-chip","children":["互联网与AI"," →"]}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"入行层级"}],["$","strong",null,{"children":"进阶"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"薪资区间"}],["$","strong",null,{"children":"20-45K·15-16薪"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"学历要求"}],["$","strong",null,{"children":"本科及以上"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"经验门槛"}],["$","strong",null,{"children":"0-3 年可入，懂工程+会用大模型是核心门槛"}]]}],["$","div",null,{"className":"job-meta__item job-meta__item--full","children":[["$","span",null,{"className":"job-meta__label","children":"代表雇主"}],["$","div",null,{"className":"tags","children":[["$","span","字节跳动",{"className":"tag","children":"字节跳动"}],["$","span","百度",{"className":"tag","children":"百度"}],["$","span","阿里巴巴",{"className":"tag","children":"阿里巴巴"}],["$","span","腾讯",{"className":"tag","children":"腾讯"}],["$","span","月之暗面",{"className":"tag","children":"月之暗面"}]]}]]}]]}],["$","$L11",null,{"content":"$12"}],"$L13"]}]
+13:["$","section",null,{"style":{"marginTop":32,"paddingBottom":24},"children":[["$","h2",null,{"className":"module-title","children":["相关岗位 ",["$","code",null,{"children":[4," 个"]}]]}],["$","div",null,{"className":"tags","children":[["$","$L3","algorithm-engineer",{"href":"/job/algorithm-engineer","className":"job-chip","children":"算法工程师"}],["$","$L3","backend-engineer",{"href":"/job/backend-engineer","className":"job-chip","children":"后端开发工程师"}],["$","$L3","frontend-engineer",{"href":"/job/frontend-engineer","className":"job-chip","children":"前端开发工程师"}],["$","$L3","product-manager",{"href":"/job/product-manager","className":"job-chip","children":"产品经理"}]]}],["$","p",null,{"style":{"marginTop":16},"children":["$","$L3",null,{"href":"/industry/internet-ai","className":"chain-chip","children":["查看「","互联网与AI","」全部岗位 →"]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"大模型应用工程师（互联网与AI） | 行业认知科普"}],["$","meta","1",{"name":"description","content":"大模型应用工程师做什么、一天怎么过、要求什么、怎么入行：从Prompt设计、RAG、Agent编排到模型评测与成本优化，一文看清这个2025年后最热门岗位的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","2",{"name":"keywords","content":"大模型应用工程师,LLM,AI应用,Prompt,RAG,AI Agent,智能体,大模型,提示词,互联网与AI"}],["$","meta","3",{"property":"og:title","content":"大模型应用工程师：岗位一天体验与入行指南"}],["$","meta","4",{"property":"og:description","content":"大模型应用工程师做什么、一天怎么过、要求什么、怎么入行：从Prompt设计、RAG、Agent编排到模型评测与成本优化，一文看清这个2025年后最热门岗位的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"大模型应用工程师：岗位一天体验与入行指南"}],["$","meta","8",{"name":"twitter:description","content":"大模型应用工程师做什么、一天怎么过、要求什么、怎么入行：从Prompt设计、RAG、Agent编排到模型评测与成本优化，一文看清这个2025年后最热门岗位的真实工作、必备技能、薪资区间与面试思路。"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

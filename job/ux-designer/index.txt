@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:I[1213,["619","static/chunks/619-ba102abea3e3d0e4.js","213","static/chunks/213-a7ed1ac5e286a01c.js","177","static/chunks/app/layout-ed0a1284ddf7724e.js"],"TermProvider"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],""]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/industry-insight/_next/static/css/1155040eca829c36.css","style"]
+0:{"P":null,"b":"asWnaL95YWzqsFq9Br74e","p":"/industry-insight","c":["","job","ux-designer",""],"i":false,"f":[[["",{"children":["job",{"children":[["slug","ux-designer","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/industry-insight/_next/static/css/1155040eca829c36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container site-header__inner","children":[["$","$L3",null,{"href":"/","className":"site-header__brand","children":["行业认知科普",["$","small",null,{"children":"先看清一个行业，再决定要不要去"}]]}],["$","div",null,{"className":"site-header__nav","children":[["$","$L3",null,{"href":"/#jobs","className":"chain-chip","children":"岗位大全"}],["$","$L3",null,{"href":"/search","className":"chain-chip","children":"搜索"}]]}]]}]}],["$","main",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"行业认知科普 · 面向求职者的行业全景速览 · 内容仅供参考，不构成任何建议"}]}]]}]}]}]]}],{"children":["job",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ux-designer","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],"default"]
+12:T34e0,
+## 1. 岗位一句话定义
+
+交互/体验设计师（UX Designer）是**通过研究用户、设计流程与界面，让产品"好用、好看、好懂"的人**。产品经理决定"做什么"，UX 设计师决定"用户用起来是什么感受"——手指怎么点、页面怎么排、操作卡不卡、情绪好不好。
+
+一句话：**UX 设计师是用户在数字世界的"空间设计师"**——好的设计让你感觉不到设计，一切都顺理成章；差的设计让你明明能用，却总觉得别扭。
+
+它在行业里的位置：UX 设计师处在"产品—开发—用户"的交叉点：向前承接产品经理的需求，向后与前端工程师密切配合（设计稿是开发的"图纸"），同时是用户的"代言人"。互联网产品设计通常分**交互设计（流程与信息架构）**与**视觉设计（界面美学）**，多数 UX 岗位两者都涉及；2025 年以来，AI 产品（对话、Agent 交互）成为设计的新战场。
+
+## 2. 一天真实体验
+
+**一个普通工作日（以某互联网公司的 UX 设计师为例）：**
+
+- 09:30 到公司，先看**产品数据与用户反馈**：昨天上线的"新用户引导流程"数据怎么样——完成率有没有提升、哪些步骤流失最多。看了客服反馈，有个用户说"找不到设置入口"，记下来。
+- 10:00 开**站会**：同步设计进度。你负责的"订单详情页改版"今天要出交互稿，先和产品对齐最终需求范围。
+- 10:30 做**用户研究/竞品分析**：看竞品的订单页怎么做，整理亮点与问题。今天还要约 3 个用户做可用性测试，先准备好测试脚本与任务清单。
+- 11:30 画**交互原型**：在 Figma 里画"订单状态查看"的交互稿——信息层级怎么排、怎么展开、异常状态（订单取消）怎么显示。先画低保真，重点把流程和逻辑理顺。
+- 12:30 午饭，看看设计社区的作品找灵感。
+- 14:00 和**产品/开发评审交互稿**：产品说"这个展开交互太绕"，前端说"这个动画成本高"。你权衡后调整方案——用一个更简单的折叠交互，保证体验与开发成本平衡。
+- 15:00 做**可用性测试**：邀请 3 个真实用户试用新改版，观察他们操作卡在哪里。发现两个用户在"如何选择配送时间"上犹豫了几秒，记录问题。
+- 16:30 整理**测试结论并改稿**：根据测试结果调整信息层级，把"配送时间选择"的默认值改成更合理的时间，重新更新设计稿与标注。
+- 17:30 维护**设计系统**：把这次用到的新按钮状态、新间距规范补进公司的设计系统组件库，保证团队风格统一。
+- 19:00 把设计稿交付给前端并写好说明，整理今日工作记录，下班。
+
+**真实感提醒**：UX 设计不是"画画好看的图"就完了——**50% 时间在研究用户、梳理逻辑、和产品/开发争论，只有一部分时间在画图**。听不到用户声音的设计师容易自嗨；不跟开发对齐的设计稿上线后会走样。**"设计不是艺术，是解决问题"**——设计稿只是载体，让用户顺利完成目标才是目的。AI 时代，设计师更要思考"对话式交互怎么设计、Agent 怎么让人信任"这些新问题。
+
+## 3. 核心职责
+
+- **用户研究**：通过访谈、问卷、可用性测试、数据分析理解用户真实需求与痛点，把"用户怎么想"翻译成设计依据。
+- **信息架构与流程设计**：梳理产品的信息层级、页面跳转、操作流程，保证用户"知道自己在哪、下一步该做什么"。
+- **交互原型设计**：用 Figma 等工具输出低保真→高保真原型，定义交互细节（状态、反馈、动效、异常处理），交付给开发作为实现依据。
+- **界面视觉设计**：设计最终的界面（配色、字体、间距、品牌感），保证"好用"之外还"好看"。
+- **可用性测试与迭代**：组织用户测试，验证设计是否达到目标；根据数据与反馈持续迭代方案。
+- **设计系统维护**：沉淀组件与设计规范（按钮、表单、颜色、间距），支撑团队规模化、一致化的设计产出。
+
+## 4. 任职要求
+
+**硬门槛（新手）：**
+- 学历：本科起步，设计、艺术、心理学、计算机相关专业常见，也欢迎跨专业（懂用户是核心）。
+- 技能：**Figma 是绝对主流的工具**（熟悉组件、自动布局、原型交互）；掌握基本视觉功底（构图、配色、字体、层级）；了解前端基础（HTML/CSS 常识，知道"什么能做、什么成本高"）。
+- 作品集：这是 UX 设计师**最重要的敲门砖**——比学历更关键。作品集要完整讲清"为什么这么设计"的全过程。
+- 经验：校招看重实习与作品集；社招 1-3 年相关经验，从视觉设计转交互、从产品转设计的都有。
+
+**软性判断（面试官真正在考察的）：**
+- 用户同理心：设计决策是"我觉得好看"还是"我有用户依据"。
+- 逻辑能力：能不能把复杂流程梳理得清清楚楚、考虑全异常状态。
+- 论证与沟通：被产品/开发质疑时，能不能用研究数据与设计原则说服对方。
+- 迭代心态：愿不愿意根据测试结果推翻自己的方案。
+
+> 设计岗的入行逻辑和别的岗位不同：**作品集 > 学历 > 笔试题**。面试官看的是"你的设计思维能不能在真实项目中落地"，而不是你画得多炫。建议新手用"完整走一遍设计流程"（研究→原型→测试→迭代）的小项目做作品集，质量比数量重要。
+
+## 5. 需要锻炼的技能
+
+**硬技能：**
+- **Figma**：组件化、自动布局、交互原型、团队协作。练法：把一款常用 App 的完整流程用 Figma 重做一遍（含交互跳转），练到"想到就能画出来"。
+- **用户研究方法**：用户访谈、问卷、可用性测试、数据分析的基础。练法：找一个真实的小问题（如"帮家人优化手机支付流程"），完整做一次"访谈→方案→测试→迭代"。
+- **信息架构与流程图**：梳理复杂流程、设计导航体系。练法：把"点外卖"的完整流程（登录→选店→下单→支付→售后）画成流程图，标出所有异常分支。
+- **视觉基础**：网格、配色、字体、层级、间距。练法：把"丑"的界面（找一个设计差的 App 页面）重新排版，对比前后信息清晰度的差异。
+- **前端常识**：HTML/CSS、组件实现逻辑。练法：用 HTML/CSS 实现一个自己设计的表单组件，理解"设计稿到开发的转化成本"。
+
+**软技能（更值钱）：**
+- **同理心与观察力**：在用户没说出来的地方发现问题。练法：每天观察身边人用手机的一个小动作，猜"为什么他这么操作"。
+- **沟通与说服**：让产品、开发、老板接受你的方案。练法：练习用"用户证据 + 设计原则 + 数据"三层论证，而不是"我觉得好看"。
+- **跨学科协作**：懂一点产品思维、技术边界、商业目标。练法：每次接需求先问"这个功能的业务目标是什么"，再开始画图。
+
+## 6. 代表雇主
+
+- **字节跳动**：C 端产品设计体系成熟（抖音、剪映等），用研资源充足，设计话语权高。
+- **腾讯**：社交与内容产品（微信、QQ、视频号）的体验设计文化深厚，重视细节与情感化设计。
+- **阿里巴巴**：电商与 B 端中后台（阿里云、钉钉）设计场景丰富，商业化与复杂流程设计见长。
+- **美团**：本地生活多业务线（外卖、到店、酒旅）设计需求大，实用性与效率导向。
+- **小红书**：内容社区对设计审美要求高，视觉与体验双轮驱动，设计团队口碑好。
+- **AI 产品公司/独角兽**：大模型产品（对话、Agent）的交互设计是新蓝海，机会多、定义权大。
+
+## 7. 职业发展路径
+
+- **入门（0-3 年）初级设计师**：在资深设计师带领下做模块设计、画稿、跑测试，把"从研究到交付"的流程走完整。核心任务：把工具与研究基础打牢，形成"以用户为中心"的设计习惯。
+- **进阶（3-6 年）资深 UX 设计师/设计 lead**：独立负责一条产品线的体验设计，主导设计方案与用户研究，开始带 1-3 人。核心任务：从"设计好一个功能"到"设计好一条产品线"。
+- **资深（6-10 年）设计专家/设计总监**：负责公司级设计体系（设计系统、体验度量、设计战略），管理设计团队，参与产品战略。核心任务：让设计成为产品竞争力。
+- **转型方向**：UX 设计师横向跳转空间大——可转产品经理（懂用户+懂交互）、转前端工程师（有视觉与交互基础）、转用户研究（研究型）、转 AI 产品设计（新蓝海，稀缺）。
+
+## 8. 薪资区间
+
+| 档位 | 年薪参考（税前） | 说明 |
+|---|---|---|
+| 校招/初级设计师 | 15-25 万 | 大厂普遍 14-16 薪；中小厂 10-18 万 |
+| 3-5 年资深设计师 | 30-55 万 | 视公司与业务；AI 产品设计方向溢价明显 |
+| 设计总监 | 60 万+ | 头部大厂核心业务可更高 |
+
+> 以上为 2026 年主流招聘平台与 offer 样本的常见区间，**以实时招聘信息为准，2026 年区间参考**。设计师薪资常被低估，实际上大厂资深交互/体验设计师的薪资与同级别产品、前端相当；AI 产品设计（Agent 交互、对话体验）是 2025 年后薪资增长最快的设计方向。城市、公司量级与是否带团队是主要浮动因素。
+
+## 9. 面试高频问题
+
+**Q1："请完整介绍你作品集里的一个项目，从需求到方案。"（几乎必考，考察设计思维）**
+思路：这是设计岗最重要的题目，按"背景与目标→用户研究与洞察（你发现了什么、依据是什么）→方案（信息架构/流程/视觉，为什么这样设计）→验证（有没有测试/数据）→复盘（哪里可以更好）"完整讲。重点展示**每一个设计决策都有依据**，而不是"我觉得这样好看"。
+
+**Q2："如果一个新的设计系统/组件库给你做，你会怎么做？"（考察系统设计能力）**
+思路：①先盘点现状（现有组件、使用方、痛点）与访谈使用者；②确立设计原则（一致性、效率、可扩展性）与视觉 tokens（颜色、间距、字体）；③分层建设（基础组件→复合组件→业务模板），定优先级；④建立使用文档与反馈机制。展示"从点（单个设计）到面（设计体系）"的系统思维。
+
+**Q3："产品经理坚持一个你认为体验不好的方案，你怎么办？"（考察沟通与专业坚持）**
+思路：①先理解对方目标（是业务 KPI 压力、还是成本限制）——不要急着反驳；②拿出证据（用户测试、数据、设计原则）论证你的方案更好，或提出折中方案（先 A/B 测试两个版本）；③如果最终仍然被否，保留体验问题的记录，用数据验证"谁对谁错"；④展示你"尊重业务目标，又坚持专业判断"的成熟度。
+
+**Q4："你做过一次用户研究/可用性测试吗？怎么做的？发现了什么？"（考察研究能力）**
+思路：真实案例优先（哪怕是自己小项目），按"研究目的→方法与对象→测试过程（任务设计、观察记录）→发现的问题（要具体，比如'3 个人都在 X 步骤犹豫'）→设计怎么改→验证结果"讲。重点展示你**真的听用户说了什么、看到了什么**，而不是编一个"用户都说好"。
+
+**Q5："AI 越来越强，设计师的价值在哪里？你准备怎么应对？"（2025 年后必问）**
+思路：①承认 AI 已能出图、出方案初稿，替代了部分"画图"工作；②强调设计师不可替代的价值——理解人、定义问题、做判断、对体验结果负责；③展示你已经把 AI 用在流程中（AI 出探索稿、你定方向与验证），并关注"Agent 交互、对话体验"这些新设计命题。落一句："AI 淘汰的是只会画图的设计师，不会淘汰懂用户的设计师。"
+
+> 参考思路为行业通用面试方法论整理，数据口径同前文各模块。
+
+---
+
+## 术语速览表
+
+| 术语 | 通俗解释 |
+|---|---|
+| [[UX]] | User Experience，用户体验：用户使用产品过程中的整体感受，"好用、好看、好懂"是设计目标 |
+| [[设计系统]] | 一套可复用的设计规范与组件库（按钮、表单、颜色、间距），保证产品一致性与团队效率 |
+| [[低保真原型]] | 不追求视觉美观、只表达结构与流程的草图式设计稿，用于快速验证逻辑 |
+| [[可用性测试]] | 请真实用户操作产品原型，观察他们在哪卡住、在哪困惑，是验证设计的最直接方法 |
+| [[A/B测试]] | 把用户随机分两组、分别看新旧方案，用数据比较哪个更好，设计也用它验证方案 |
+| [[前端]] | 用户直接看到和交互的程序部分；设计师的设计稿由前端工程师实现，二者需紧密协作 |
+| [[AI Agent]] | AI 智能体：能自主规划、调用工具、执行任务的 AI；"人机对话+自主行动"的交互模式是设计新命题 |
+| [[AIGC]] | AI 生成内容；设计师用 AI 出探索稿、做素材已成为标配，重点从"画"转向"判断与把关" |
+
+> 速览表术语释义综合自互联网行业通用概念与公开资料。6:["$","article",null,{"className":"page-body","children":[["$","$L3",null,{"className":"back-link","href":"/","children":"← 返回行业列表"}],["$","header",null,{"style":{"marginTop":12},"children":[["$","h1",null,{"style":{"fontSize":28,"margin":0},"children":["交互/体验设计师",["$","span",null,{"className":"muted","style":{"fontSize":15,"fontWeight":400,"marginLeft":10},"children":"UX Designer"}]]}],["$","p",null,{"className":"muted","style":{"marginTop":4},"children":"让产品好用、好看的设计师"}]]}],["$","section",null,{"className":"job-meta","style":{"margin":"16px 0"},"children":[["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"所属行业"}],["$","$L3",null,{"href":"/industry/internet-ai","className":"chain-chip","children":["互联网与AI"," →"]}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"入行层级"}],["$","strong",null,{"children":"入门"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"薪资区间"}],["$","strong",null,{"children":"15-35K·14-16薪"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"学历要求"}],["$","strong",null,{"children":"本科及以上"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"经验门槛"}],["$","strong",null,{"children":"0-3 年可入，作品集是核心敲门砖"}]]}],["$","div",null,{"className":"job-meta__item job-meta__item--full","children":[["$","span",null,{"className":"job-meta__label","children":"代表雇主"}],["$","div",null,{"className":"tags","children":[["$","span","字节跳动",{"className":"tag","children":"字节跳动"}],["$","span","腾讯",{"className":"tag","children":"腾讯"}],["$","span","阿里巴巴",{"className":"tag","children":"阿里巴巴"}],["$","span","美团",{"className":"tag","children":"美团"}],["$","span","小红书",{"className":"tag","children":"小红书"}]]}]]}]]}],["$","$L11",null,{"content":"$12"}],"$L13"]}]
+13:["$","section",null,{"style":{"marginTop":32,"paddingBottom":24},"children":[["$","h2",null,{"className":"module-title","children":["相关岗位 ",["$","code",null,{"children":[4," 个"]}]]}],["$","div",null,{"className":"tags","children":[["$","$L3","frontend-engineer",{"href":"/job/frontend-engineer","className":"job-chip","children":"前端开发工程师"}],["$","$L3","product-manager",{"href":"/job/product-manager","className":"job-chip","children":"产品经理"}],["$","$L3","growth-operator",{"href":"/job/growth-operator","className":"job-chip","children":"用户运营/增长运营"}],["$","$L3","data-analyst",{"href":"/job/data-analyst","className":"job-chip","children":"数据分析师"}]]}],["$","p",null,{"style":{"marginTop":16},"children":["$","$L3",null,{"href":"/industry/internet-ai","className":"chain-chip","children":["查看「","互联网与AI","」全部岗位 →"]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"交互/体验设计师（互联网与AI） | 行业认知科普"}],["$","meta","1",{"name":"description","content":"交互/体验设计师做什么、一天怎么过、要求什么、怎么入行：从用户研究、信息架构、交互原型到设计系统，一文看清互联网 UX 设计师的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","2",{"name":"keywords","content":"UX设计师,交互设计师,用户体验,用户研究,原型设计,Figma,设计系统,可用性测试,互联网与AI"}],["$","meta","3",{"property":"og:title","content":"交互/体验设计师：岗位一天体验与入行指南"}],["$","meta","4",{"property":"og:description","content":"交互/体验设计师做什么、一天怎么过、要求什么、怎么入行：从用户研究、信息架构、交互原型到设计系统，一文看清互联网 UX 设计师的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"交互/体验设计师：岗位一天体验与入行指南"}],["$","meta","8",{"name":"twitter:description","content":"交互/体验设计师做什么、一天怎么过、要求什么、怎么入行：从用户研究、信息架构、交互原型到设计系统，一文看清互联网 UX 设计师的真实工作、必备技能、薪资区间与面试思路。"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

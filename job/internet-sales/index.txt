@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+2:I[1213,["619","static/chunks/619-ba102abea3e3d0e4.js","213","static/chunks/213-a7ed1ac5e286a01c.js","177","static/chunks/app/layout-ed0a1284ddf7724e.js"],"TermProvider"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],""]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/industry-insight/_next/static/css/1155040eca829c36.css","style"]
+0:{"P":null,"b":"asWnaL95YWzqsFq9Br74e","p":"/industry-insight","c":["","job","internet-sales",""],"i":false,"f":[[["",{"children":["job",{"children":[["slug","internet-sales","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/industry-insight/_next/static/css/1155040eca829c36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container site-header__inner","children":[["$","$L3",null,{"href":"/","className":"site-header__brand","children":["行业认知科普",["$","small",null,{"children":"先看清一个行业，再决定要不要去"}]]}],["$","div",null,{"className":"site-header__nav","children":[["$","$L3",null,{"href":"/#jobs","className":"chain-chip","children":"岗位大全"}],["$","$L3",null,{"href":"/search","className":"chain-chip","children":"搜索"}]]}]]}]}],["$","main",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"行业认知科普 · 面向求职者的行业全景速览 · 内容仅供参考，不构成任何建议"}]}]]}]}]}]]}],{"children":["job",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","internet-sales","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],"default"]
+12:T39b5,
+## 1. 岗位一句话定义
+
+互联网销售（KA/商业化）是**把互联网公司的"产品"——流量广告、SaaS 订阅、云与 AI 服务——卖给企业客户，并持续经营客户关系、带来收入的人**。字节跳动靠广告赚钱，销售就是把"你的客户愿意在抖音投广告"变成真实合同的人。
+
+一句话：**互联网销售是公司收入的"前线部队"**——产品和技术把货造出来，销售负责把它卖出去、把钱收回来。
+
+它在行业里的位置：互联网公司再好的产品，也需要销售把"企业客户"这一个群体拿下。互联网销售主要分两大类：**KA/大客户销售**（面向大企业，客单价高、决策链长、关系经营深）与 **SMB/中腰部销售**（面向中小商家，跑量、标准化）；还有按产品线分的**广告销售**（卖流量与投放）与 **SaaS/云销售**（卖软件订阅与 AI 服务）。2025 年以来，AI 应用、大模型服务成为新的销售品类，懂 AI 的销售是稀缺资源。
+
+## 2. 一天真实体验
+
+**一个普通工作日（以某大厂广告/商业化 KA 销售为例）：**
+
+- 09:30 到公司，先看**本周业绩进度**：本季度目标完成 60%，本月还有 40 万合同额要追。先列今天要推进的机会点清单——哪个客户该催方案、哪个该约见、哪个能签约。
+- 10:00 开**销售周会/例行同步**：报漏斗进展（新增机会、推进中、待签约、回款）。leader 问"某大客户的单子为什么还没签"，你说明卡在客户内部审批，约了下周再推。
+- 10:30 **客户拜访准备**：下午约了一家连锁餐饮客户谈"本地生活投放"，先整理对方近期的投放数据、竞品案例、我方产品亮点，准备一页纸的方案要点。
+- 11:30 回**客户消息与内部协同**：客户对合同条款有异议，找法务/商务同事确认可让步空间；把"客户要的案例材料"发给解决方案团队帮忙准备。
+- 12:30 午饭，晚上有客户饭局，先安排好时间。
+- 14:00 **客户拜访**：见客户的市场总监，先花 20 分钟听懂他们的目标（拉新客、提高复购），再讲"我们的投放方案怎么帮你达成"，给一个初步报价逻辑。客户没当场定，但约了下次带方案总监再谈。
+- 16:00 回公司写**拜访纪要与报价**：整理这次沟通的关键点、客户疑虑、下一步动作；和解决方案/运营同事一起把方案细化，初步报价并申请折扣权限。
+- 17:30 跟进**在途单**：打电话给另外两个客户确认方案反馈；把下周要签约的客户的合同材料准备好。
+- 18:30 更新 CRM：录入拜访记录、推进阶段、下次跟进时间；给 leader 发一条进展小结。
+- 19:30 参加**客户饭局**（KA 销售的常态，维护关系），晚上回家。
+
+**真实感提醒**：销售是互联网里**结果最透明、压力最直接**的岗位——你的数字（签约额、回款）所有人看得见，连续几季不达标就可能被优化。日常不是"喝喝酒就把单签了"：**80% 时间是开会、写方案、做报价、催内部资源、处理合同流程**，真正和客户"谈"的时间很少；大客户单子动辄 3-6 个月周期，被客户放鸽子、被竞品抢单是家常便饭。抗压、脸皮厚、心里有客户账本的人才能长期干。
+
+## 3. 核心职责
+
+- **客户开拓与商机挖掘**：通过行业研究、渠道合作、老客户转介绍、陌拜等方式找到潜在客户，建立商机储备（销售漏斗的第一层）。
+- **需求诊断与方案设计**：听懂客户生意上的真实诉求（获客、转化、降本、品牌），把公司产品翻译成"客户能感知的价值方案"，联动解决方案/运营团队产出定制方案。
+- **报价与商务谈判**：根据客户预算与竞争情况设计报价策略，争取最优合同条款与回款条件，在"公司利润"与"客户满意度"之间平衡。
+- **签约与回款**：推动合同签署（协调法务、商务流程），跟进回款——销售在大部分公司**以回款而非签约为业绩确认标准**。
+- **客户经营与续约**：KA 客户要长期维护——定期复盘效果、提供优化建议、处理客诉，推动客户加投与续约（续约是利润最高的增长）。
+- **市场与行业情报**：收集竞品政策、行业动态、客户预算变化，反馈给产品与市场团队，帮助公司调整产品与打法。
+
+## 4. 任职要求
+
+**硬门槛（新手）：**
+- 学历：本科起步，专业不限（市场营销、经管、广告、计算机都有）；销售是互联网里**专业要求最宽容的岗位之一**。
+- 经验：校招"管培生"项目可入；社招更看重**销售经验或行业经验**（有客户资源是最大加分项）。
+- 技能：PPT/方案能力（能独立做客户方案）、Excel 与 CRM（客户管理工具）、基本的财务常识（预算、报价、利润率）。
+- 语言与表达：能把产品价值讲清楚、把客户异议接住，书面与口头都重要。
+
+**软性判断（面试官真正在考察的）：**
+- 目标感与自驱力：没有 leader 盯着你，你能不能自己排满每一天。
+- 学习与行业理解：面试官爱问"你怎么理解我们产品的价值"，照本宣科 vs 真懂业务一试便知。
+- 韧性与抗压：被客户拒绝 10 次还能不能第 11 次微笑拜访。
+- 诚信与长期主义：是"签一单算一单"还是"把客户当长期资产经营"——前者在大客户领域走不远。
+
+> 销售岗的入行逻辑：**"狼性"不是最重要的，专业与靠谱才是**——尤其 KA 销售，客户买的是"你帮我赚钱"，不是"你的酒量"。新人可以没有资源，但要有"愿意打陌生电话、跑陌生拜访"的执行力；有行业背景（做过电商、零售、本地生活）转销售会非常有竞争力。
+
+## 5. 需要锻炼的技能
+
+**硬技能：**
+- **客户需求诊断（SPIN 提问法）**：用"背景-难点-暗示-需求回报"四类问题挖出客户真实痛点。练法：选一个你熟悉的行业，写 10 个"客户可能有的难点"，练习把它翻译成"我们产品的机会"。
+- **方案与报价**：做一份让客户看得懂、算得清 ROI 的方案。练法：找一款 SaaS 产品的公开定价，练习做一份"帮客户算投入产出"的一页纸测算。
+- **销售漏斗与 CRM**：管理商机阶段、预测业绩。练法：用自己的"求职"当销售练手——把每家目标公司当作商机，用漏斗思维管理进度。
+- **行业与产品知识**：懂公司的产品线（广告投放、SaaS、云/AI）与客户所在行业的玩法。练法：每周精读一份行业报告（如电商、本地生活），用自己的话讲出"这行最近在卷什么、钱在往哪流"。
+- **AI 工具提效**：用大模型帮你写拜访纪要、客户方案初稿、行业分析。练法：让 AI 出 3 版方案框架再人工改，重点练"你比 AI 更懂客户"的部分。
+
+**软技能（更值钱）：**
+- **关系经营**：让客户信任你，而不只是买你东西。练法：练习"记得客户说过的小事"（他公司最近的新闻、他个人的兴趣），关系在细节里。
+- **谈判与博弈**：在"客户压价、公司保利润"之间找到空间。练法：模拟 3 个常见的谈判场景（客户要更低折扣、要多送服务、要更长账期），练习"让步换承诺"。
+- **韧性**：被拒绝是常态，爬起来是能力。练法：给自己定"每天必须完成 N 个客户动作"的目标，用目标感对冲情绪波动。
+
+## 6. 代表雇主
+
+- **字节跳动**：巨量引擎（广告）、飞书（SaaS）、火山引擎（云/AI）的销售体系庞大，商业化营收全球领先，销售打法成熟。
+- **腾讯**：腾讯广告（微信生态投放）、腾讯云、企业微信的销售岗位齐全，产品矩阵深、客户类型多。
+- **阿里巴巴**：阿里妈妈（电商广告）、阿里云（云/AI）的企业客户销售体系成熟，B 端销售文化浓厚。
+- **百度**：搜索广告、信息流、百度智能云的销售与直销团队大，AI 与无人车商业化带来新品类。
+- **快手**：磁力引擎（广告）与电商商业化销售团队扩张快，本地生活与中腰部商家市场机会多。
+- **SaaS/AI 独角兽（飞书、钉钉生态、零一万物等）**：客单价高、打法新，成长快但公司稳定性看融资；选择时评估产品力与现金流。
+
+## 7. 职业发展路径
+
+- **入门（0-3 年）销售代表/客户经理**：跑中小客户、学产品、练话术、完成业绩指标，把"找客户→签约→回款"全流程跑通。核心任务：建立销售基本功与第一个客户池。
+- **进阶（3-6 年）KA 大客户经理/高级销售**：独立经营大客户（客单价高、决策链长），会做方案、谈价格、经营长期关系，收入与稳定性大幅提升。核心任务：从"跑量"到"经营大客户"。
+- **资深（6-10 年）销售总监/区域负责人/商业化负责人**：带销售团队、定销售策略与目标、经营重点客户关系、参与商业化战略。核心任务：让一个销售团队持续达标、人才梯队健康。
+- **转型方向**：销售离"钱"和"客户"最近，转型路径宽——可转**客户成功/解决方案**（懂客户、懂产品，收入稳定）、转产品经理（懂商业与场景）、转增长运营（懂客户生意）、转创业/加盟（最懂"怎么把东西卖出去"的职业之一）。
+
+## 8. 薪资区间
+
+| 档位 | 年薪参考（税前） | 说明 |
+|---|---|---|
+| 销售代表/初级 KA | 12-25 万 | 底薪+提成；大厂底薪相对高，中小 SaaS 靠提成弹性 |
+| 3-5 年 KA 大客户经理 | 30-70 万 | 视业绩完成度与客户规模；Top Sales 可破百万 |
+| 销售总监/区域负责人 | 80 万+ | 头部大厂或独角兽核心团队可更高 |
+
+> 以上为 2026 年主流招聘平台与 offer 样本的常见区间，**以实时招聘信息为准，2026 年区间参考**。销售是互联网薪资"方差最大"的岗位：同样的 title，完成率 80% 和 150% 的收入可能差一倍以上；AI/云/SaaS 等新品类客单价高、提成空间大。底薪+提成结构意味着"旱涝看业绩"，抗压能力弱的人慎入。城市与客户资源的积累是长期变量。
+
+## 9. 面试高频问题
+
+**Q1："你理解销售是什么？为什么适合做销售？"（几乎必考，考动机与认知）**
+思路：①给一个成熟的销售观——"销售不是说服客户买不需要的东西，而是找到客户的问题，用产品帮他解决，拿到他愿意付的价格"；②用真实例子证明你行动过（哪怕大学社团拉赞助、摆摊、卖过二手）；③落回岗位："我做 xxx 产品/行业的销售，是因为我看好它在帮客户解决 xxx 问题"，展示你研究过公司与产品。
+
+**Q2："客户说'你们太贵了，XX 家便宜多了'，你怎么回应？"（经典异议处理题）**
+思路：①不急着降价，先弄清楚"贵"背后的比较维度——是产品功能、服务、还是预算本身；②讲价值差异："我们的贵在哪里"（效果、数据、服务、稳定性），用案例和 ROI 让客户看到"买便宜的反而更贵"；③如果确实有价格空间，用"让步换承诺"（"我可以申请更优价格，前提是这次签年单/预付"）；④留有余地，不卑不亢。展示"会算账、有原则、懂博弈"。
+
+**Q3："给你一个新行业（如连锁餐饮）的开拓任务，你打算怎么找第一批客户？"（考察开拓思路）**
+思路：①先做行业地图——这个行业有哪些头部/腰部玩家、他们的广告/采购决策人在哪（市场部、品牌部、老板）；②多渠道触达——行业协会与展会、行业媒体、老客户转介绍、平台数据找高潜商家、定向陌拜；③设计"敲门砖"——用免费试用、行业案例、小额度试单降低客户门槛；④建漏斗持续跟进。重点展示**有结构、可执行**的开拓计划，而不是"就打电话呗"。
+
+**Q4："如果你这个季度目标差 30% 完不成，你会怎么办？"（考察目标感与执行力）**
+思路：①先说"不放弃"，立刻做销售漏斗盘点——哪些商机能提前签、哪些客户能加单、哪些新商机能快速孵化；②争取资源——向 leader 申请折扣权限、方案支持、高层出面助攻大客户；③聚焦高概率单——把有限时间放在"本周能签"的事上，而不是分散撒网；④即使不达标，也要为下季度留下健康的漏斗。展示"结果导向+主动破局"，而不是躺平或找借口。
+
+**Q5："现在 AI 这么火，对销售的岗位有什么影响？"（2025 年后高频）**
+思路：①承认 AI 改变了获客方式（智能线索、AI 外呼、AI 写方案）与产品形态（很多销售在卖 AI 产品本身）；②强调销售不可替代的核心——复杂决策下的信任、客户关系的温度、谈判中的判断与博弈；③顺势展示你已经懂一点 AI（"我在跟进学习大模型应用，因为很多客户正在问这个，我要能接住"）。落一句："懂 AI 的销售，是这个时代最稀缺的销售。"
+
+> 参考思路为行业通用面试方法论整理，数据口径同前文各模块。
+
+---
+
+## 术语速览表
+
+| 术语 | 通俗解释 |
+|---|---|
+| [[KA]] | Key Account，大客户：客单价高、决策链长的重点客户；KA 销售负责深度经营这类客户 |
+| [[SMB]] | Small and Medium Business，中小商家客户：跑量、标准化打法为主，与 KA 相对 |
+| [[销售漏斗]] | 从"潜在客户→商机→方案→签约→回款"逐层转化的过程管理，销售业绩预测的核心工具 |
+| [[CRM]] | Customer Relationship Management，客户关系管理：记录客户信息、跟进阶段与合同数据的必备工具 |
+| [[SaaS]] | 软件即服务：按订阅付费的企业软件，"把 SaaS 卖出去"是互联网销售的重要品类 |
+| [[ROI]] | 投资回报率：客户投广告/买软件，花的钱换回多少收益；销售的核心说辞就是"我们的产品 ROI 更高" |
+| [[回款]] | 客户实际付钱到账；多数公司以回款而非签约作为销售业绩确认标准，是销售最关心的一环 |
+| [[AIGC]] | AI 生成内容；AI 广告素材、AI 营销工具正成为销售可卖的新产品，也让销售写方案更快 |
+| [[大模型]] | 参数规模巨大的深度学习模型；大模型销售（云、MaaS、企业级 AI 应用）是 2025 年后最火的销售赛道 |
+
+> 速览表术语释义综合自互联网行业通用概念与公开资料。6:["$","article",null,{"className":"page-body","children":[["$","$L3",null,{"className":"back-link","href":"/","children":"← 返回行业列表"}],["$","header",null,{"style":{"marginTop":12},"children":[["$","h1",null,{"style":{"fontSize":28,"margin":0},"children":["互联网销售（KA/商业化）",["$","span",null,{"className":"muted","style":{"fontSize":15,"fontWeight":400,"marginLeft":10},"children":"Internet Sales (KA / Commercialization)"}]]}],["$","p",null,{"className":"muted","style":{"marginTop":4},"children":"把流量和 SaaS 卖给客户的人"}]]}],["$","section",null,{"className":"job-meta","style":{"margin":"16px 0"},"children":[["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"所属行业"}],["$","$L3",null,{"href":"/industry/internet-ai","className":"chain-chip","children":["互联网与AI"," →"]}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"入行层级"}],["$","strong",null,{"children":"入门"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"薪资区间"}],["$","strong",null,{"children":"8-20K·底薪+提成，综合收入弹性大"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"学历要求"}],["$","strong",null,{"children":"本科及以上"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"经验门槛"}],["$","strong",null,{"children":"0-3 年可入，销售经验或行业经验更佳"}]]}],["$","div",null,{"className":"job-meta__item job-meta__item--full","children":[["$","span",null,{"className":"job-meta__label","children":"代表雇主"}],["$","div",null,{"className":"tags","children":[["$","span","字节跳动",{"className":"tag","children":"字节跳动"}],["$","span","腾讯",{"className":"tag","children":"腾讯"}],["$","span","阿里巴巴",{"className":"tag","children":"阿里巴巴"}],["$","span","百度",{"className":"tag","children":"百度"}],["$","span","快手",{"className":"tag","children":"快手"}]]}]]}]]}],["$","$L11",null,{"content":"$12"}],"$L13"]}]
+13:["$","section",null,{"style":{"marginTop":32,"paddingBottom":24},"children":[["$","h2",null,{"className":"module-title","children":["相关岗位 ",["$","code",null,{"children":[4," 个"]}]]}],["$","div",null,{"className":"tags","children":[["$","$L3","growth-operator",{"href":"/job/growth-operator","className":"job-chip","children":"用户运营/增长运营"}],["$","$L3","product-manager",{"href":"/job/product-manager","className":"job-chip","children":"产品经理"}],["$","$L3","data-analyst",{"href":"/job/data-analyst","className":"job-chip","children":"数据分析师"}],["$","$L3","backend-engineer",{"href":"/job/backend-engineer","className":"job-chip","children":"后端开发工程师"}]]}],["$","p",null,{"style":{"marginTop":16},"children":["$","$L3",null,{"href":"/industry/internet-ai","className":"chain-chip","children":["查看「","互联网与AI","」全部岗位 →"]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"互联网销售（KA/商业化）（互联网与AI） | 行业认知科普"}],["$","meta","1",{"name":"description","content":"互联网销售（KA/商业化）做什么、一天怎么过、要求什么、怎么入行：从客户开拓、方案讲解、报价谈判到回款交付，一文看清互联网大客户销售与商业化销售的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","2",{"name":"keywords","content":"互联网销售,KA销售,大客户销售,商业化,广告销售,SaaS销售,客户经理,解决方案,互联网与AI"}],["$","meta","3",{"property":"og:title","content":"互联网销售（KA/商业化）：岗位一天体验与入行指南"}],["$","meta","4",{"property":"og:description","content":"互联网销售（KA/商业化）做什么、一天怎么过、要求什么、怎么入行：从客户开拓、方案讲解、报价谈判到回款交付，一文看清互联网大客户销售与商业化销售的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"互联网销售（KA/商业化）：岗位一天体验与入行指南"}],["$","meta","8",{"name":"twitter:description","content":"互联网销售（KA/商业化）做什么、一天怎么过、要求什么、怎么入行：从客户开拓、方案讲解、报价谈判到回款交付，一文看清互联网大客户销售与商业化销售的真实工作、必备技能、薪资区间与面试思路。"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

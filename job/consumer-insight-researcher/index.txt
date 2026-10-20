@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[1213,["619","static/chunks/619-ba102abea3e3d0e4.js","213","static/chunks/213-a7ed1ac5e286a01c.js","177","static/chunks/app/layout-ed0a1284ddf7724e.js"],"TermProvider"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],""]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/industry-insight/_next/static/css/1155040eca829c36.css","style"]
+0:{"P":null,"b":"asWnaL95YWzqsFq9Br74e","p":"/industry-insight","c":["","job","consumer-insight-researcher",""],"i":false,"f":[[["",{"children":["job",{"children":[["slug","consumer-insight-researcher","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/industry-insight/_next/static/css/1155040eca829c36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container site-header__inner","children":[["$","$L3",null,{"href":"/","className":"site-header__brand","children":["行业认知科普",["$","small",null,{"children":"先看清一个行业，再决定要不要去"}]]}],["$","div",null,{"className":"site-header__nav","children":[["$","$L3",null,{"href":"/#jobs","className":"chain-chip","children":"岗位大全"}],["$","$L3",null,{"href":"/search","className":"chain-chip","children":"搜索"}]]}]]}]}],["$","main",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"行业认知科普 · 面向求职者的行业全景速览 · 内容仅供参考，不构成任何建议"}]}]]}]}]}]]}],{"children":["job",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","consumer-insight-researcher","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],"default"]
+12:T432b,
+## 1. 岗位一句话定义
+
+消费者洞察研究员（业内常简称 Insight 岗、CMI/CMK）是**替品牌"听懂消费者"的人**：在品牌决定"做什么产品、卖给谁、怎么讲故事"之前，用访谈、问卷、产品测试和数据分析，把"消费者真实怎么想、怎么买、为什么买"变成可以拿去做决策的证据。
+
+一句话：**他不直接卖货，但品牌每一次重要的产品与营销决策，都该有他给出的证据兜底**——新品口味行不行、包装像不像"药"、广告记不记得住、定价能不能被接受，都是他先回答。
+
+它在行业里的位置：快消公司通常把洞察岗放在市场部或独立的研究部门，同时向品牌经理、产品开发（NPD）、管理层供料；乙方则分布在尼尔森IQ、凯度（Kantar）、益普索（Ipsos）等市场研究公司。它相当于"品牌经理和产品开发经理的参谋部"，也是新品上市流程的第一道关卡——**卖得动的产品，往往在概念阶段就被消费者"筛"过一遍**。
+
+和它容易混淆的岗位：品牌经理负责"决定做什么、怎么说"，洞察岗负责"提供决定的依据"；产品开发经理负责"把产品做出来"，洞察岗负责"验证做这个东西有没有人要"。三者在新品项目里是一条流水线上的接力棒。
+
+**它适合谁**：喜欢观察人、爱问为什么、能忍受繁琐执行、愿意用证据说话的人。只想要快速拿到结论、讨厌"没有标准答案"的人，会做得很痛苦。
+
+## 2. 一天真实体验
+
+**一个普通工作日（以快消公司 Insight 岗为例）：**
+
+- 08:50 通勤路上刷一眼行业资讯和竞品动态，看到某个竞品刚上新口味，截图存进"竞品追踪"文档。
+- 09:30 到公司，先收**昨天焦点小组的转录稿**，一边听录音一边给访谈做标注：哪句是真实需求、哪句是客气话。
+- 10:00 开**项目例会**：同步三个在跑的项目——某饮料新口味测试、包装 A/B 测试、品牌健康度追踪，各自的进度、样本、卡点各说一句。
+- 10:30 **更新招募与配额表**：这一轮需要 8 个 25-35 岁女性，还差 2 个，联系招募公司补人；配额（性别/年龄/城市/收入）没配齐，数据就不能用。
+- 11:00 与**品牌经理对齐调研目标**：对方说"想知道年轻人喜不喜欢我们的新包装"，你把它翻译成可验证的问题——"18-25 岁人群在不提示情况下能否复述包装卖点、好感度是否显著高于现款"。
+- 11:30 写**调研问卷**：一道题反复改五遍，删掉诱导性问法（"你觉得我们的新口味是不是更好喝"是典型错误），把作答时间控制在 15 分钟以内。
+- 12:30 午饭，顺路逛楼下便利店看一眼竞品有没有上新品。
+- 13:30 **整理上轮结论的初稿**：把散落的图表压成一页"结论先行"的摘要，标题写判断，不写"数据展示"。
+- 14:00 **到访问现场**：在商场拦截招募的受访者，或在线上开焦点小组；你坐在单面镜后记录，主持人在前面引导，一旦发现有人说"我会买"其实不会买，立刻在笔记里标出来。
+- 15:30 与**供应商过执行细节**：样本量、配额、报价、交付时间；乙方报价超预算，你判断砍掉一轮不必要的定量。
+- 16:30 **跨部门同步**：把初步结论同步给研发——"消费者对减糖没意见，但对口感变淡很敏感"，提醒配方不要走太远。
+- 17:00 **看数据**：把回收的问卷跑一遍交叉分析、做图，判断哪个口味的购买意愿显著更高，以及差异是否落在统计误差内。
+- 18:30 **写结论 PPT**：一页一个结论，最后落在"建议上市/建议改配方/建议不投"这种可执行的判断上，而不是罗列一堆图表。
+- 19:30 下班；如果第二天要开小组访谈，晚上还得对一遍主持人提纲。
+- 20:30（上新期）在家再扫一眼数据群，确认明天要用的结论初稿没有被挑出逻辑漏洞。
+- 21:00 睡前把明天访谈必须追问的 2 个核心问题记进手机备忘录，避免现场被受访者带偏。
+
+**如果入职的是新消费品牌**：调研节奏会比传统快消快很多——一周内可能要给出"这个口味能不能上"的结论，样本更小、更依赖快速定性加小范围试销，对"快"的耐受度要求更高。
+
+**和品牌经理的一天有什么不同**：品牌经理的一天围绕预算、物料和生意数字转，洞察岗的一天围绕"问对人、问对问题、把答案说清楚"转，前者是决策者，后者是提供依据的人。
+
+**上新期的另一种一天**：新品上市前 6-8 周是高峰，一周跑 3-4 场访谈、访谈完连夜整理是常态；如果同时做全国多城市测试，还要出差到异地现场，晚上回酒店就把当天笔记整理掉，常忙到 21:00 后。淡季则更多是追踪类项目与长线研究，节奏会缓一些。
+
+**如果在乙方做研究员**：一天可能同时跟 2-3 个不同客户的项目，上午跑 A 客户的执行，下午给 B 客户写报告，晚上改 C 客户的方案，项目之间的切换和"多个 deadline 打架"是这个岗的常态。
+
+**真实感提醒**：洞察岗的日常不是"坐着看报告"，而是**反复问问题、反复听录音、反复改问卷**。它要求你能忍受执行层面的琐碎（招募、配额、录音、跑数），又能在最后一页 PPT 上给出干脆的判断；只会描述数据、不敢下结论的人，会很快被品牌方绕过。
+
+## 3. 核心职责
+
+- **调研方案设计**：把模糊的商业问题翻译成可验证的调研假设，选对方法——定性还是定量、用什么人群、样本多大、多久出结果。
+- **定性调研执行**：组织焦点小组、一对一深访、入户观察、陪同购物，挖出消费者自己都说不出口的真实动机。
+- **定量调研落地**：设计问卷、控制样本配额、盯执行质量，对回收数据做交叉分析与显著性检验。
+- **产品与包装测试**：做新品口味/口感/包装/命名/价格的消费者测试，包括概念测试、包装测试、价格测试与 U&A 研究。
+- **品牌健康度追踪**：定期追踪品牌认知度、好感度、购买意向与市场地位，回答"品牌在消费者心里变了没有"。
+- **结论转译与供应商管理**：把调研数据、电商评价、社媒口碑、销售数据拼成管理层能用的洞察结论，同时对乙方研究公司管预算、管质量、管交付。
+
+## 4. 任职要求
+
+**硬门槛：**
+- 学历：本科起步，心理学、社会学、市场营销、统计学、人类学背景最受欢迎；硕士在乙方或大厂洞察岗更常见。
+- 经验：校招可做助理研究员（多数人先进乙方或研究公司 1-2 年再跳甲方）；社招一般要求 2-5 年调研/用户研究经验，有完整新品测试项目经历加分。
+- 工具：熟练 Excel（透视表、交叉分析）与 PPT（把结论讲清楚），会用 SPSS 或 Python/R 做统计分析是加分项。
+- 方法论：懂定性与定量调研的基本功——问卷设计、抽样、显著性检验、焦点小组主持；能一眼看出"样本偏差""诱导性提问"这类坑。
+- 语言：外企岗位常需英文读写（global 报告、跨国项目对齐），英语好是明显加分项。
+- 作品集：面试常要求带 1-2 个完整调研案例（问题—方法—结论—业务影响），比空谈方法论更有说服力。
+
+**软性判断（面试官真正在考察的）：**
+- 好奇心与共情：愿不愿意花两个小时，听一个陌生消费者讲他为什么买这瓶饮料。
+- 商业转译能力：能不能把"消费者说包装像药"翻译成"改用暖色+去掉功能性 icon"的具体建议。
+- 客观中立：不为了迎合老板或品牌方的预期去解读数据。
+- 讲故事能力：一屋子图表里挑出最关键的三个结论，用一句话讲给不懂调研的人听。
+- 时间与预算意识：调研永远有时间压力，能不能在有限条件下给出"够用"的答案。
+- 耐得住枯燥：招募、编码、跑数这些环节不好玩，但做不好，结论就不可信。
+
+> 洞察岗最容易踩的坑是"只交数据不交结论"——**甲方要的不是一份 80 页的报告，而是"要不要上、怎么改"的答案**。
+
+## 5. 需要锻炼的技能
+
+**硬技能：**
+- **问卷设计**：会写不诱导、不歧义、覆盖完整漏斗的题目。练法：找一份公开问卷，逐题挑出"这题会误导受访者"的地方。
+- **焦点小组主持**：控场、追问、避免带偏。练法：组织 5 个朋友聊"你最近买的一瓶饮料为什么买"，练习追问到动机层。
+- **统计分析**：懂均值、交叉表、显著性检验、AB 对比。练法：拿公开数据集在 Excel/SPSS 里跑一遍交叉分析，写三句结论。
+- **数据可视化**：一页一结论的 PPT 表达。练法：把自己一份调研笔记压缩成 3 页 PPT。
+- **品类与渠道知识**：懂价格带、货架、竞品格局。练法：逛一趟超市，记录一个品类的货架布局、价格带与主打人群。
+- **AI 工具应用**：用大模型辅助整理访谈稿、做初版编码。练法：把一段访谈录音转成文字后，让 AI 归类高频词，再人工复核。
+- **报告写作**：把结论写成"先判断、后证据"的结构。练法：逼自己用 100 字概括一份报告的结论。
+
+**软技能：**
+- **追问与倾听**：忍住不给答案，让对方自己把话说完。练法：和不同年龄的家人聊天，练习"你说的这个具体是什么场景"。
+- **讲故事**：把数据变成有人物、有场景的故事。练法：给每个抽象结论配一句消费者原话或一个真实场景。
+- **务实与抗压**：预算被砍、样本招不满、结论不合老板心意是常态。练法：接受"不完美方案"，学会在有限预算内做最有效的调研——小样本定性先行，定量验证。
+- **跨部门沟通**：让品牌、研发、管理层都理解你的证据边界，既不夸大也不敢隐瞒。
+- **提问的克制**：调研时多问"为什么、然后呢"，少说"是不是"，这是一项需要刻意练习的习惯。
+- **和乙方谈条件**：会砍价、会判断报价单合不合理。练法：拿一份真实的调研报价单，逐项问"这项值不值这个钱"。
+
+## 6. 代表雇主
+
+- **宝洁、联合利华**：设有成熟的消费者与市场洞察部门，方法论体系完整，是洞察人的"黄埔军校"，但门槛高、多走管培生通道。
+- **欧莱雅、雅诗兰黛等美妆集团**：消费者研究投入大，尤其看重人群与审美洞察，适合对美妆感兴趣的人。
+- **农夫山泉、伊利、蒙牛、康师傅等本土大牌**：产品测试与追踪需求密集，本土实战经验积累快。
+- **元气森林、三只松鼠、完美日记等新消费品牌**：靠快速消费者测试驱动选品与迭代，节奏快、决策链路短，一个人可能同时管好几个测试。
+- **乙方研究公司（尼尔森IQ、凯度、益普索、CTR 等）**：项目密度高、方法论训练扎实，是应届生最好的跳板，做 1-2 年后跳甲方很常见；互联网公司的用户研究（UX Research）方向相近，也可横向切换。
+- **咨询公司与数据服务商**：偏向把消费者数据与商业策略结合，适合想往战略方向走的人。
+- **乳企与饮料集团的研发部门**：伊利、蒙牛等自建消费者研究团队，与产品创新绑得很紧，适合想深入产品端的人。
+
+## 7. 职业发展路径
+
+- **入门（0-2 年）助理研究员/调研执行**：跑执行、整理数据、写访谈记录。核心任务：把执行做扎实。
+- **进阶（2-5 年）研究员/资深研究员**：独立负责一条产品线或一个品类的洞察项目，直接把结论交给品牌方。核心任务：把问题翻译对、把结论说清楚。
+- **资深（5-10 年）洞察经理/洞察总监**：带团队、管调研预算、参与公司级战略与新品决策，话语权接近品牌总监。
+- **管理跨度变化**：从"个人做项目"变成"分配项目、审结论、培养新人"，需要补上团队管理能力。
+- **转型方向**：可转品牌经理（懂洞察是核心优势）、产品开发/研发（连接技术与消费者）、用户研究（转互联网 UX Research）、消费品咨询，或成为独立顾问按项目接单。
+- **自由职业路线**：积累足够的客户资源与作品后，可以开小型研究工作室，按项目接品牌方的调研订单，时间更自由但收入不稳定。
+
+## 8. 薪资区间
+
+| 档位 | 月薪参考（税前） | 说明 |
+|---|---|---|
+| 助理/执行研究员（0-2 年） | 8-14K·13 薪 | 乙方起薪常低于甲方，但培训更扎实 |
+| 研究员/资深研究员（2-5 年） | 15-28K·13-15 薪 | 甲方快消公司溢价明显 |
+| 洞察经理/总监（5 年+） | 30-60K·14-16 薪 | 头部外企与集团更高，含年度奖金 |
+
+> 以上为 2026 年快消与市场研究行业招聘平台的常见区间，以实时招聘信息为准，2026 年区间参考。薪资受甲方/乙方、城市、公司体系与个人项目经验影响很大。
+
+影响薪资的几个变量：甲方（品牌方）普遍高于乙方（研究公司）；城市一线高于新一线；外企与本土大厂体系不同，外企底薪高、本土公司奖金弹性大；能独立管一条产品线并直接向管理层汇报的资深研究员，议价能力明显更强。
+
+> 谈薪提示：把"能独立负责一条产品线的洞察项目"当作议价点，而不只是强调"会做访谈"；乙方出身的人跳甲方时，要提前了解甲方的奖金结构与考核口径。
+
+## 9. 面试高频问题
+
+**Q1："如果让你设计一次新品饮料的口味测试，你会怎么做？"（考察方法论与拆解能力）**
+思路：①先明确测试目标——消费者喜欢哪个口味、能不能接受、是否显著优于竞品；②给方法——盲测+概念测试、样本量与配额、测试地点；③给关键指标——喜好度、购买意向、复购意愿；④主动说局限——样本不代表全体、实验室环境与真实货架场景有差异。
+
+**Q2："消费者说'我会买'，但实际不会买，你怎么处理？"（考察对行为偏差的理解）**
+思路：①承认"声称购买意向"与"真实行为"之间有系统性偏差；②给出改善手段——价格测试（愿意付多少）、行为观察、小批量试销看真实动销、电商预售/付定金；③强调"看行为不看态度"是洞察人的基本功。
+
+**Q3："怎么区分真需求和伪需求？"（考察判断力）**
+思路：①真需求有场景、有频次、消费者愿意付出成本（钱或时间）；②追问具体场景，而不是问"你想要什么"；③用数据交叉验证——搜索量、竞品销量、复购率；④举一个例子，比如某网红产品"尝鲜一次"就没有复购，说明不是真需求。
+
+**Q4："分享一次你做得最有价值、或最失败的调研。"（考察反思与表达）**
+思路：用背景—方法—结论—业务影响四段讲清；**失败案例要讲出"我当时错在哪、后来怎么改"**，展示反思能力，比只讲成功案例更能加分。
+
+**Q5："调研结论和老板的判断相反，你怎么办？"（考察中立与沟通）**
+思路：①先把证据做扎实，确认不是自己方法出了问题；②用"结论+证据+不确定性"的结构汇报，而不是正面硬顶；③提出小成本验证方案（小范围试销、加测一轮），让数据说话；④尊重最终决策，但把不同意见和依据记录在案。
+
+> 参考思路为快消与研究行业通用面试方法论整理，数据口径同前文各模块。
+
+---
+
+## 术语速览表
+
+| 术语 | 通俗解释 |
+|---|---|
+| [[焦点小组]] | Focus Group，6-8 名受访者在一名主持人引导下围绕特定话题集体讨论，是定性调研最常用的方法 |
+| [[定性调研]] | 用小样本深挖"为什么"的研究（深访、焦点小组、观察），回答动机与场景 |
+| [[定量调研]] | 用大样本回答"多少、比例差多少"的研究（问卷、测试），回答规模与分布 |
+| [[消费者洞察]] | 对消费者行为背后动机与需求的发现，是"数据+场景"结合后得到的可执行结论 |
+| [[品牌心智]] | 消费者"不用思考就选择某品牌"的认知状态，是快消行业最难复制的护城河 |
+| [[U&A]] | Usage & Attitude 研究：了解消费者对某品类"怎么用、什么态度"的基础性调研 |
+| [[铺货率]] | 某商品实际铺进的目标终端数占目标终端总数的比例，衡量"消费者买不买得到" |
+| [[复购率]] | 一段时间内重复购买的用户占购买用户的比例，判断产品是真需求还是"尝鲜一次" |
+| [[NPD]] | New Product Development，新品开发：从 idea 到上市的全流程，消费者洞察是其第一道关卡 |
+
+> 速览表释义综合自快消与市场研究行业通用概念与公开资料。6:["$","article",null,{"className":"page-body","children":[["$","$L3",null,{"className":"back-link","href":"/","children":"← 返回行业列表"}],["$","header",null,{"style":{"marginTop":12},"children":[["$","h1",null,{"style":{"fontSize":28,"margin":0},"children":["消费者洞察研究员",["$","span",null,{"className":"muted","style":{"fontSize":15,"fontWeight":400,"marginLeft":10},"children":"Consumer Insight Researcher"}]]}],["$","p",null,{"className":"muted","style":{"marginTop":4},"children":"用调研与数据回答「消费者到底要什么」的人"}]]}],["$","section",null,{"className":"job-meta","style":{"margin":"16px 0"},"children":[["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"所属行业"}],["$","$L3",null,{"href":"/industry/fmcg-consumer","className":"chain-chip","children":["快消与新消费"," →"]}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"入行层级"}],["$","strong",null,{"children":"进阶"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"薪资区间"}],["$","strong",null,{"children":"12-30K·13-15薪"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"学历要求"}],["$","strong",null,{"children":"本科及以上"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"经验门槛"}],["$","strong",null,{"children":"0-2 年可做助理研究员，2-5 年为主力，资深岗 5 年以上"}]]}],["$","div",null,{"className":"job-meta__item job-meta__item--full","children":[["$","span",null,{"className":"job-meta__label","children":"代表雇主"}],["$","div",null,{"className":"tags","children":[["$","span","宝洁",{"className":"tag","children":"宝洁"}],["$","span","联合利华",{"className":"tag","children":"联合利华"}],["$","span","欧莱雅",{"className":"tag","children":"欧莱雅"}],["$","span","农夫山泉",{"className":"tag","children":"农夫山泉"}],["$","span","元气森林",{"className":"tag","children":"元气森林"}]]}]]}]]}],["$","$L11",null,{"content":"$12"}],"$L13"]}]
+13:["$","section",null,{"style":{"marginTop":32,"paddingBottom":24},"children":[["$","h2",null,{"className":"module-title","children":["相关岗位 ",["$","code",null,{"children":[4," 个"]}]]}],["$","div",null,{"className":"tags","children":[["$","$L3","brand-manager",{"href":"/job/brand-manager","className":"job-chip","children":"品牌经理"}],["$","$L3","npd-developer",{"href":"/job/npd-developer","className":"job-chip","children":"产品开发经理（NPD）"}],["$","$L3","content-marketer",{"href":"/job/content-marketer","className":"job-chip","children":"内容营销经理"}],["$","$L3","ecommerce-operator",{"href":"/job/ecommerce-operator","className":"job-chip","children":"电商运营经理"}]]}],["$","p",null,{"style":{"marginTop":16},"children":["$","$L3",null,{"href":"/industry/fmcg-consumer","className":"chain-chip","children":["查看「","快消与新消费","」全部岗位 →"]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"消费者洞察研究员（快消与新消费） | 行业认知科普"}],["$","meta","1",{"name":"description","content":"消费者洞察研究员做什么、一天怎么过、要求什么、怎么入行：从定性访谈、焦点小组到定量问卷、数据分析，一文看清快消行业消费者洞察岗的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","2",{"name":"keywords","content":"消费者洞察,市场调研,用户研究,快消,定性调研,定量分析,焦点小组,洞察"}],["$","meta","3",{"property":"og:title","content":"消费者洞察研究员：岗位一天体验与入行指南"}],["$","meta","4",{"property":"og:description","content":"消费者洞察研究员做什么、一天怎么过、要求什么、怎么入行：从定性访谈、焦点小组到定量问卷、数据分析，一文看清快消行业消费者洞察岗的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"消费者洞察研究员：岗位一天体验与入行指南"}],["$","meta","8",{"name":"twitter:description","content":"消费者洞察研究员做什么、一天怎么过、要求什么、怎么入行：从定性访谈、焦点小组到定量问卷、数据分析，一文看清快消行业消费者洞察岗的真实工作、必备技能、薪资区间与面试思路。"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

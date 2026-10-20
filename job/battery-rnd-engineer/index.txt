@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:I[1213,["619","static/chunks/619-ba102abea3e3d0e4.js","213","static/chunks/213-a7ed1ac5e286a01c.js","177","static/chunks/app/layout-ed0a1284ddf7724e.js"],"TermProvider"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],""]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/industry-insight/_next/static/css/1155040eca829c36.css","style"]
+0:{"P":null,"b":"asWnaL95YWzqsFq9Br74e","p":"/industry-insight","c":["","job","battery-rnd-engineer",""],"i":false,"f":[[["",{"children":["job",{"children":[["slug","battery-rnd-engineer","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/industry-insight/_next/static/css/1155040eca829c36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container site-header__inner","children":[["$","$L3",null,{"href":"/","className":"site-header__brand","children":["行业认知科普",["$","small",null,{"children":"先看清一个行业，再决定要不要去"}]]}],["$","div",null,{"className":"site-header__nav","children":[["$","$L3",null,{"href":"/#jobs","className":"chain-chip","children":"岗位大全"}],["$","$L3",null,{"href":"/search","className":"chain-chip","children":"搜索"}]]}]]}]}],["$","main",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"行业认知科普 · 面向求职者的行业全景速览 · 内容仅供参考，不构成任何建议"}]}]]}]}]}]]}],{"children":["job",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","battery-rnd-engineer","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],"default"]
+12:T38c5,
+## 1. 岗位一句话定义
+
+电池研发工程师是**在化学、材料、工艺和工程之间做权衡的电化学工程师**：设计电芯用什么材料、什么结构、什么工艺，让电池在四件事上同时变好——能量密度更高、寿命更长、更安全、成本更低。
+
+一句话：**电池研发工程师负责"电芯"这个最核心的零部件从配方到产品的诞生过程**——电芯占电池包成本约 40%，材料配方和工艺掌握了，定价权就掌握了一半。
+
+它在行业里的位置：新能源动力电池链（矿→四大主材→电芯→PACK→整车）和储能链（电芯→系统→电站）的**上游核心环节**。研发工程师的产出交给系统集成、工艺、质量、采购落地；对外，研发部门决定一家电池厂未来 3-5 年的产品竞争力。按对象分，有正极材料研发、负极研发、电解液研发、隔膜研发、电芯结构设计、失效分析等方向；按技术代际分，有磷酸铁锂与三元体系的迭代优化，也有钠离子、固态等下一代技术预研。
+
+## 2. 一天真实体验
+
+**一个普通工作日（以电芯材料研发工程师为例）：**
+
+- 08:30 到公司，换**无尘服/防静电服**（电池实验室对湿度、粉尘极其敏感，部分工序要求露点很低的环境）。
+- 09:00 先看昨晚过夜的**循环测试数据**：充放电曲线、容量衰减、温升有没有异常。一组循环测试往往要跑几周，每天看一眼是基本功课。
+- 09:30 开**实验晨会**：同步各项目进度，说清楚"谁的数据能支持下结论、谁下周才出结果"。研发项目周期以月、年计，进度管理靠每个人自觉。
+- 10:00 回操作间**制备极片/配电解液**：称料、混浆、涂布、辊压。手套箱操作要精准，一个配比参数写错，后面所有数据都白做。
+- 12:00 午饭，和同事聊聊行业动态（钠电进展、固态电池新闻）。
+- 13:30 **组装测试电池**：扣电（小电池）或软包电芯，装好后上测试柜。一次实验做 20-30 个平行样是常态。
+- 15:00 做**表征测试**：扫描电镜（SEM）、XRD 看材料形貌与晶体结构，或者用电化学工作站测阻抗、循环伏安。
+- 16:30 **数据处理与分析**：把测试数据导入 Origin/Python，画图、算容量保持率、对比不同配方组。
+- 17:30 写**实验记录与项目汇报**：记录要足够详细，三个月后同事还能看懂你当时为什么这么做。
+- 19:00 以后是常态化的**"赶实验"时段**：测试设备 24 小时排班，白天装好的电池晚上跑数据，第二天早上才能看结果——"研发的下班时间不是钟表定的，是测试柜定的"。
+
+**真实感提醒**：上面是顺利的一天。真实情况是——**研发是"失败是常态"的工作**：一组配方实验做三个月，最后结论往往只有一行"该体系电性能无优势，建议转向"，但这一行背后是几百组数据。能量密度的提升以每年几个百分点的量级推进，靠的是无数微小的改进叠加。**耐得住"长期没有正结果"、能把"失败实验"记录成有效知识的人，才做得下去**；另外，电池研发是结果导向的团队工作，项目节点（送样、认证、量产导入）来了，加班赶数据是家常便饭。
+
+## 3. 核心职责
+
+- **材料与配方研究**：针对正极、负极、电解液、隔膜做选型、配比优化和掺杂/包覆改性，目标是在能量密度、循环寿命、低温性能、安全之间找最优解。
+- **电芯设计与结构开发**：确定电芯尺寸、容量、极片设计（面密度、压实密度）、卷绕/叠片结构，配合结构件与工艺可行性给出设计参数。
+- **工艺验证与导入**：和工艺、设备部门一起验证涂布、辊压、分切、卷绕/叠片等工序的工艺窗口，把小试成果推向中试和量产。
+- **性能测试与失效分析**：设计并执行容量、倍率、高低温、循环、存储、安全（过充、短路、针刺、热箱等）测试；用 SEM/XRD/CT 等手段做失效分析，回答"电池为什么衰减、为什么起火"。
+- **数据管理与技术报告**：用 DOE（实验设计）安排实验、用数据管理工具存档，输出实验报告、项目评审材料；研发的"资产"就是记录与数据。
+- **竞品与前沿跟踪**：拆解竞品电芯、跟踪学术论文与专利，判断"这条技术路线值不值得押注"。
+
+## 4. 任职要求
+
+**硬门槛：**
+- 学历：**硕士起步**，头部企业的核心研发岗普遍要求博士；本科一般只能进工艺、测试、技术支持等外围岗位。
+- 专业：电化学、材料科学与工程、化学、物理、能源动力等相关专业；锂电课题组、做电池/材料方向课题的经历是最大加分。
+- 经验：校招看课题（论文、项目、专利），社招要求 1-3 年以上电芯或材料研发经验，熟悉测试设备和数据分析全流程。
+- 工具与语言：能熟练操作充放电机、电化学工作站等设备；会用 Origin/Grapher 画图、会用 Python/Matlab 做数据分析；英语文献阅读是硬能力（论文和专利多是英文）。
+
+**软性判断（面试官真正考察的）：**
+- 实验设计与逻辑：能不能把一个模糊问题（"容量衰减了"）拆解成可验证的假设和实验。
+- 严谨与细致：配方记录、测试条件、数据处理的规范性——电池研发里"差一点点"就是事故。
+- 耐心与抗压：实验周期长、失败率高，能不能在几个月的"无结果"里保持稳定输出。
+- 团队协作：研发要和工艺、质量、采购、客户技术团队反复沟通，闷头做实验的人走不远。
+
+> 电池行业 R&D 岗位的门槛整体高于其他制造环节，**对口课题组经历比学校名气更值钱**；没有课题组背景的人，可以从工艺/测试/设备岗切入，再转研发，但路径会长很多。
+
+## 5. 需要锻炼的技能
+
+**硬技能：**
+- **电化学基础（CV、EIS、循环伏安等）**：看懂一条充放电曲线、阻抗谱，是判断材料性能的基本功。练法：找一篇经典电池文献，把它的测试方法（电流密度、截止电压、测试顺序）完整复现一遍。
+- **测试设备与表征**：充放电机、电化学工作站、SEM/XRD 等设备的操作与样品制备。练法：在课题组或实习中主动承担"设备管理员"角色，把每种测试的原理和注意事项写成一页笔记。
+- **数据分析与作图**：Origin/Python 处理海量循环数据，做容量保持率、倍率性能对比图。练法：用公开的电池充放电数据（网上有开源数据集）自己画一遍"容量衰减曲线+拟合"。
+- **DOE 实验设计**：用最少的实验覆盖最多的变量组合，而不是一次改一个参数。练法：给自己手头实验写一份"因子+水平"的 DOE 表，再对照最终数据看哪些组合白做了。
+- **文献与专利检索**：判断技术路线时，能不能快速找到和读透关键文献/专利。练法：每月精读 1-2 篇顶刊电池论文，写一页摘要+批判。
+
+**软技能（更值钱）：**
+- **记录习惯**：实验记录不是"给公司看的"，是三个月后的你自己看的。练法：每次实验结束当天写完记录，包括"当时为什么这么设计"。
+- **结果沟通**：能把复杂电化学现象讲给非本专业的工艺/采购同事听。练法：练习用"一句话结论+一个图"汇报实验结果，禁止堆术语。
+- **抗压与长期主义**：接受"大部分实验失败是正常投入"。练法：给自己设"最小可见进展"目标（每周至少产出一张可用的图），对抗长期无结果的焦虑。
+- **批判性思维**：不迷信"行业都说行"的路线，能指出数据的短板。练法：读每篇论文时问自己"这个结论的证据够吗，换了测试条件还会成立吗"。
+
+## 6. 代表雇主
+
+- **宁德时代**：动力电池与储能电池全球出货双料第一，研发投入行业最大，材料、电芯、结构、失效分析等方向最全，适合想要"顶配平台"的人。
+- **比亚迪**：刀片电池、CTB（电池车身一体化）等结构创新代表，产业链垂直整合，研发和量产制造结合紧密。
+- **亿纬锂能**：动力+储能第二梯队头部，圆柱电池和储能大电芯方向有特色，储能出货快速增长。
+- **国轩高科**：以磷酸铁锂体系见长，同时布局固态电池，是"老牌+求变"的典型。
+- **中创新航**：高电压三元、快充技术方向突出，和主流车企绑定深，适合想做动力电池前沿体系的人。
+
+## 7. 职业发展路径
+
+- **入门（0-3 年）助理研究员/研发工程师**：负责实验执行、数据分析、支撑某一条材料/产品线。核心任务：把实验做对、把数据讲清。
+- **进阶（3-6 年）资深研发工程师/项目负责人**：独立负责一个材料体系或产品型号的研发，带 2-5 人小团队，向管理层汇报技术路线决策依据。核心任务：把项目做成、把技术路线跑通。
+- **资深（6-10 年）研发经理/首席工程师/技术总监**：决定公司未来 3-5 年的技术路线（押注哪个体系、哪个代际），管理跨专业团队。核心任务：把方向选对、把梯队带起来。
+- **转型方向**：电池研发是新能源里最"值钱"的技术背景——可转工艺/制造（懂设计的工艺专家）、转质量与失效分析（研发视角稀缺）、转售前与客户技术支持、转产业研究与投资行研（懂技术的分析师很抢手）、转专利与知识产权。
+
+## 8. 薪资区间
+
+| 档位 | 年薪参考（税前） | 说明 |
+|---|---|---|
+| 校招硕士（研发工程师） | 20-35 万 | 宁德时代等头部可达 30 万上下；二线厂商 15-25 万 |
+| 博士 / 3-5 年资深 | 35-60 万 | 含项目奖金与股票期权，视公司与技术方向 |
+| 研发专家/研发经理 | 60-100 万+ | 头部厂商核心岗位，股权激励占比明显 |
+
+> 以上为 2026 年新能源招聘平台与 offer 样本的常见区间，**以实时招聘信息为准，2026 年区间参考**。薪资受城市（宁德/宜宾/常州等基地城市与一线总部不同）、公司量级、技术方向（固态/钠电等前沿方向溢价）影响很大；研发岗普遍 13-15 薪，年终占比高。
+
+## 9. 面试高频问题
+
+**Q1："谈谈能量密度和安全性的矛盾，你怎么权衡？"（考察电化学基础与系统思维）**
+思路：①先说矛盾本质——提高能量密度通常意味着更激进的材料（更高镍、更薄隔膜）和更高电压，安全裕度下降；②给权衡框架：目标市场决定优先级（动力要能量密度，储能更看安全与寿命）；③举具体手段：材料改性（包覆、掺杂）、结构设计（泄压阀、防爆）、BMS 保护策略；④落回自己：如果是储能电芯，我倾向在安全冗余内做能量密度优化。
+
+**Q2："为什么储能领域磷酸铁锂比三元更主流？"（考察材料认知）**
+思路：①从成本、寿命、安全性三个维度对比——LFP 循环寿命长、热稳定性好、不含贵金属钴镍、成本低；三元能量密度高、低温好，但热失控风险高、成本贵；②储能对"度电成本"敏感，LFP 全生命周期更划算；③举例：比亚迪刀片电池通过对 LFP 的结构创新补了能量密度短板，说明"材料与结构是配合的"。
+
+**Q3："给你一个课题：正极材料容量衰减，你如何设计实验找原因？"（考察 DOE 与失效分析逻辑）**
+思路：①先明确问题边界——是材料本体衰减还是界面副反应？是循环衰减还是存储衰减？②设计对照实验：拆解变量（电压窗口、温度、电解液组分），每组只动一个变量；③给出表征手段：SEM 看形貌、XRD 看结构、EIS 看阻抗增长、ICP 看金属溶出；④说明判断标准：什么样的数据能下什么结论，什么样的情况需要补实验。
+
+**Q4："循环寿命衰减的可能原因有哪些？"（考察失效分析功底）**
+思路：从"活性物质损失、内阻增加、副反应积累"三大类展开：①正极结构退化（相变、开裂、金属溶出）；②负极 SEI 膜增厚与析锂；③电解液分解、耗干；④隔膜堵塞、极片接触变差；⑤结合测试数据判断主因——容量衰减曲线形态（线性 vs 加速）对应不同机理。
+
+**Q5："固态电池的商业化难点，你认为是什么？"（考察行业视野）**
+思路：①技术层面：固-固界面接触差导致阻抗大、循环差，目前导入量产还需突破；②工艺与成本：固态电解质与现产线兼容度低、设备投入大、良率低；③供应链：新型材料体系不成熟；④给出判断：3-5 年内更可能是"半固态"过渡路线率先落地，全固态是中长期方向——展示你既关注前沿又不飘。
+
+> 参考思路为电池行业通用面试方法论整理，数据口径同前文各模块。
+
+---
+
+## 术语速览表
+
+| 术语 | 通俗解释 |
+|---|---|
+| [[电芯]] | 电池的最小能量单元：正极、负极、隔膜、电解液封装在一起的"小电池"，能量密度、安全与成本的核心都在它身上 |
+| [[能量密度]] | 单位重量或体积能储存的电量（Wh/kg 或 Wh/L），是动力电池最被追捧的指标，但提升它往往要牺牲其他指标 |
+| [[循环寿命]] | 电池充放电到容量衰减到规定值（一般 80%）前能循环的次数，储能和动力用户最关心的"用得久不久" |
+| [[磷酸铁锂]] | 电池主流正极材料之一，成本低、安全好、循环长，是储能和入门电动车的绝对主力 |
+| [[PACK]] | 电池包集成工艺：把电芯做成模组再集成为电池包，决定空间利用率、散热与安全 |
+| [[BMS]] | Battery Management System，电池管理系统：负责电压/温度监控、均衡与保护，是储能与动力电池安全的"大脑" |
+| [[电解液]] | 电池内部让锂离子在正负极之间来回跑的"传输介质"，组分与添加剂配方是各家研发的核心秘密 |
+| [[固态电池]] | 用固态电解质替代液态电解液的下一代电池技术，目标是更高能量密度与更高安全，量产尚在爬坡期 |
+
+> 速览表术语释义综合自新能源行业通用概念与公开技术资料。6:["$","article",null,{"className":"page-body","children":[["$","$L3",null,{"className":"back-link","href":"/","children":"← 返回行业列表"}],["$","header",null,{"style":{"marginTop":12},"children":[["$","h1",null,{"style":{"fontSize":28,"margin":0},"children":["电池研发工程师",["$","span",null,{"className":"muted","style":{"fontSize":15,"fontWeight":400,"marginLeft":10},"children":"Battery R&D Engineer"}]]}],["$","p",null,{"className":"muted","style":{"marginTop":4},"children":"把能量密度与安全做上去的电化学工程师"}]]}],["$","section",null,{"className":"job-meta","style":{"margin":"16px 0"},"children":[["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"所属行业"}],["$","$L3",null,{"href":"/industry/new-energy","className":"chain-chip","children":["新能源"," →"]}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"入行层级"}],["$","strong",null,{"children":"进阶"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"薪资区间"}],["$","strong",null,{"children":"15-35K·13-15薪（研发岗，头部更高）"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"学历要求"}],["$","strong",null,{"children":"硕士及以上（核心研发岗）"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"经验门槛"}],["$","strong",null,{"children":"校招以硕博为主，社招要求 1-3 年电芯/材料研发经验"}]]}],["$","div",null,{"className":"job-meta__item job-meta__item--full","children":[["$","span",null,{"className":"job-meta__label","children":"代表雇主"}],["$","div",null,{"className":"tags","children":[["$","span","宁德时代",{"className":"tag","children":"宁德时代"}],["$","span","比亚迪",{"className":"tag","children":"比亚迪"}],["$","span","亿纬锂能",{"className":"tag","children":"亿纬锂能"}],["$","span","国轩高科",{"className":"tag","children":"国轩高科"}],["$","span","中创新航",{"className":"tag","children":"中创新航"}]]}]]}]]}],["$","$L11",null,{"content":"$12"}],"$L13"]}]
+13:["$","section",null,{"style":{"marginTop":32,"paddingBottom":24},"children":[["$","h2",null,{"className":"module-title","children":["相关岗位 ",["$","code",null,{"children":[4," 个"]}]]}],["$","div",null,{"className":"tags","children":[["$","$L3","ess-system-engineer",{"href":"/job/ess-system-engineer","className":"job-chip","children":"储能系统工程师"}],["$","$L3","quality-engineer",{"href":"/job/quality-engineer","className":"job-chip","children":"质量工程师"}],["$","$L3","equipment-engineer",{"href":"/job/equipment-engineer","className":"job-chip","children":"设备工程师"}],["$","$L3","supply-chain-buyer",{"href":"/job/supply-chain-buyer","className":"job-chip","children":"供应链采购（Buyer）"}]]}],["$","p",null,{"style":{"marginTop":16},"children":["$","$L3",null,{"href":"/industry/new-energy","className":"chain-chip","children":["查看「","新能源","」全部岗位 →"]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"电池研发工程师（新能源） | 行业认知科普"}],["$","meta","1",{"name":"description","content":"电池研发工程师做什么、一天怎么过、要求什么、怎么入行：从材料配方、电芯设计到安全与寿命验证，一文看清动力电池与储能电池研发的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","2",{"name":"keywords","content":"电池研发,电芯,电化学,材料配方,能量密度,循环寿命,动力电池,储能电池,新能源"}],["$","meta","3",{"property":"og:title","content":"电池研发工程师：岗位一天体验与入行指南"}],["$","meta","4",{"property":"og:description","content":"电池研发工程师做什么、一天怎么过、要求什么、怎么入行：从材料配方、电芯设计到安全与寿命验证，一文看清动力电池与储能电池研发的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"电池研发工程师：岗位一天体验与入行指南"}],["$","meta","8",{"name":"twitter:description","content":"电池研发工程师做什么、一天怎么过、要求什么、怎么入行：从材料配方、电芯设计到安全与寿命验证，一文看清动力电池与储能电池研发的真实工作、必备技能、薪资区间与面试思路。"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

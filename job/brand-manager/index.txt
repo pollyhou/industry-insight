@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[1213,["619","static/chunks/619-ba102abea3e3d0e4.js","213","static/chunks/213-a7ed1ac5e286a01c.js","177","static/chunks/app/layout-ed0a1284ddf7724e.js"],"TermProvider"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],""]
+4:I[9766,[],""]
+5:I[8924,[],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/industry-insight/_next/static/css/1155040eca829c36.css","style"]
+0:{"P":null,"b":"asWnaL95YWzqsFq9Br74e","p":"/industry-insight","c":["","job","brand-manager",""],"i":false,"f":[[["",{"children":["job",{"children":[["slug","brand-manager","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/industry-insight/_next/static/css/1155040eca829c36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container site-header__inner","children":[["$","$L3",null,{"href":"/","className":"site-header__brand","children":["行业认知科普",["$","small",null,{"children":"先看清一个行业，再决定要不要去"}]]}],["$","div",null,{"className":"site-header__nav","children":[["$","$L3",null,{"href":"/#jobs","className":"chain-chip","children":"岗位大全"}],["$","$L3",null,{"href":"/search","className":"chain-chip","children":"搜索"}]]}]]}]}],["$","main",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"行业认知科普 · 面向求职者的行业全景速览 · 内容仅供参考，不构成任何建议"}]}]]}]}]}]]}],{"children":["job",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","brand-manager","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","696","static/chunks/696-ed0c768dc3af645f.js","213","static/chunks/213-a7ed1ac5e286a01c.js","426","static/chunks/app/job/%5Bslug%5D/page-4abe9d3aec2e584e.js"],"default"]
+12:T2cff,
+## 1. 岗位一句话定义
+
+品牌经理（Brand Manager，简称 BM）是**一个品牌的"总经理"**：对某个品牌的生意结果负责——卖了多少、赚了多少、在消费者心里的印象是什么。他不是只管广告，而是要把**产品、定价、渠道、传播**四件事串起来，让品牌在市场上持续增长。
+
+一句话：**别人管一个功能，他管一个"品牌生意"**；在宝洁等外企，品牌经理甚至常说"自己是这个品牌的所有者（Brand Owner）"。
+
+它在行业里的位置：快消公司的市场部通常分两大块——**品牌组**（管品牌策略与传播，BM 所在）和**渠道/零售组**（管卖进渠道）；品牌经理与研发、供应链、财务、销售紧密协作，是"产品能不能成"的核心推力。新消费公司的品牌岗职责更宽，常涵盖新媒体运营、直播电商、私域等。
+
+## 2. 一天真实体验
+
+**一个普通工作日（以成熟快消公司品牌经理为例）：**
+
+- 09:30 到公司，先看**生意数据**：上周销售额、铺货率、电商平台的表现有没有达标。发现某区域增长下滑 8%，决定今天重点跟进。
+- 10:00 参加**品牌季度会议**：向总监汇报新品上市前 6 周的准备进度——广告片拍得如何、渠道档期排没排、预算还剩多少，用一页 PPT 说清"要什么资源、缺什么支持"。
+- 11:00 与**广告代理开会（Campaign 对接）**：agency 提案两支广告创意，你从"是否贴合品牌调性、记忆点够不够"角度反馈修改意见——这是品牌经理最常做的事：当甲方、改创意、催进度。
+- 12:30 午饭。
+- 14:00 与**调研公司过消费者测试**：新品口味/包装测试的定性报告出来，三分之一消费者觉得包装"像药"——如实记录，并规划调整方向，同时安抚研发别急着改配方。
+- 15:30 与**电商运营对双十一大促方案**：确认主推品、折扣力度、赠品机制、站内站外投放预算分配；品牌经理要对"花出去的营销费带来多少销量"负责。
+- 17:00 **写媒介投放 brief**：把本季度要投放的平台（电梯媒体、抖音、小红书）、目标人群、预算框架整理成 brief 发给媒介代理询价。
+- 18:30 回复邮件、处理销售同事"产品卖不动了品牌有没有动作"的催促，整理明天汇报材料。
+- 19:30 下班（大促/新品期常加班到 22:00 后）。
+
+**真实感提醒**：品牌经理的日常关键词是——**开会、审核物料、管供应商、算 ROI、被销售催、催广告公司**。它不浪漫，本质是"用预算和创意把销量做出来"的管理岗；文案、设计、剪辑等执行工作有专门团队，BM 主要是判断和决策。
+
+## 3. 核心职责
+
+- **品牌定位与策略**：明确品牌"卖给谁、凭什么买、和竞品有什么不同"，形成品牌定位图和年度品牌策略。
+- **新品上市（NPD 联动）**：与研发/产品开发协作，定义新品的卖点、人群、定价、上市节奏；品牌经理是新品上市项目的总协调人。
+- **Campaign 企划与执行**：策划品牌传播战役（广告片、社媒话题、IP 联名、线下活动），管理广告公司与物料制作，把控创意质量与预算。
+- **媒介与预算管理**：分配品牌年度营销预算（品牌广告/效果广告/促销/调研），跟踪 ROI；学习用数据而非感觉做投放决策。
+- **消费者洞察**：看消费者调研报告、电商评价、社媒口碑，找到"消费者真正在意什么"，指导产品与传播方向。
+- **渠道配合**：与销售团队配合卖进渠道（商超、便利店、电商），设计促销机制、陈列方案，保证品牌在货架与页面有存在感。
+- **生意复盘**：月度/季度看品牌生意健康度（销量、市占率、利润、复购），向管理层汇报并提出调整方案。
+
+## 4. 任职要求
+
+**硬门槛：**
+- 学历：本科起步，商科（市场营销、管理）、新闻传播、经济学背景为主；理工科+逻辑强也受欢迎（宝洁等外企尤其看重综合素质而非专业）。
+- 经验：校招主要走管培生（MT），2-3 轮面试考察领导力与商业思维；社招一般要求 2-5 年品牌/市场/广告经验，有完整 Campaign 或新品上市经历是加分项。
+- 能力：PPT 与 Excel 是基本功（汇报与看数都靠它）；英语好是外企加分项（海外汇报、global 会议）。
+- 审美：对广告、设计、内容有基本的品味判断力——这决定你能不能在 agency 面前做有效甲方。
+
+**软性判断：**
+- 商业敏感度：能不能从生意数据里看到机会与风险。
+- 领导力：没有下属的"横向领导"——推动研发、销售、agency 为你干活。
+- 抗压与结果导向：预算花出去要有交代，结论"这次的Campaign效果一般，但我们学到了X"比甩锅更被认可。
+
+## 5. 需要锻炼的技能
+
+**硬技能：**
+- **Excel 数据分析**：会看销售明细、算渗透率/复购率、做预算表。练法：用公开的上市公司财报"模拟自己是品牌经理，拆解它的收入为什么增长"。
+- **PPT 汇报**：一页讲清一个结论的商务表达。练法：把一本书读完后，用 3 页 PPT 向朋友讲清楚核心观点。
+- **营销方法论基础**：4P（产品/价格/渠道/促销）、STP（细分/目标/定位）、品牌资产、整合营销传播。练法：找一个熟悉品牌，用 STP 分析它为什么这么定价、这么传播。
+- **媒介与内容审美**：懂抖音/小红书/电梯媒体等平台的玩法差异，能判断一条广告片的"好坏"。练法：每天刷 30 分钟信息流，记录"哪条广告让你记住了，为什么"。
+
+**软技能：**
+- **讲故事能力**：品牌经理本质是"把产品故事讲给消费者听"的人。练法：向完全不了解的人介绍你最喜欢的品牌，练习 30 秒电梯演说。
+- **项目管理**：同时推 3-5 个项目，学会排优先级、追进度。练法：用甘特图规划一次真实的活动（哪怕是自己组织朋友聚会）。
+- **谈判与向上管理**：向老板要预算、向 agency 压价、向销售部门争取资源。练法：练习"提前预判对方需求，给出 A/B 两个方案"。
+- **同理心**：站在消费者、销售、老板三个角度想同一个问题。
+
+## 6. 代表雇主
+
+- **宝洁**：全球品牌经理制鼻祖，管培生体系成熟，薪资与培养质量公认头部；适合想做职业化品牌人的同学。
+- **欧莱雅**：美妆品牌矩阵庞大（兰蔻、赫莲娜、巴黎欧莱雅等），营销预算充足，时尚与审美文化强。
+- **联合利华**：多品类覆盖（食品、日化、个人护理），MT 体系完善，方法论体系化。
+- **农夫山泉**：本土品牌管理标杆，广告与包装营销能力强，薪资在快消内资中较高。
+- **元气森林、泡泡玛特、瑞幸等新消费品牌**：打法更互联网化（私域、直播、联名、快速测试），成长快但波动也大，适合想快速积累全链路经验的人。
+
+## 7. 职业发展路径
+
+- **入门（0-2 年）品牌助理/管培生**：跟项目、做数据、改物料，熟悉品牌管理全流程。核心任务：把事做对。
+- **进阶（2-5 年）品牌经理（BM）**：独立负责一个品牌或一条产品线的生意；开始背销量、市占率、ROI 等硬指标。核心任务：把品牌做大。
+- **资深（5-10 年）高级品牌经理/品牌总监**：负责多个品牌或整个品类，带团队，参与集团品牌战略。
+- **转型方向**：品牌经理可转——市场总监、电商负责人（懂品牌又懂渠道）、创业（新消费品牌创始人多为品牌/市场背景）、广告公司客户总监、咨询公司消费品顾问。
+
+## 8. 薪资区间
+
+| 档位 | 年薪参考（税前） | 说明 |
+|---|---|---|
+| 管培生/品牌助理 | 15-25 万 | 外企与头部快消普遍 15-20 薪起，宝洁等可达 20 万+ |
+| 2-5 年品牌经理 | 30-60 万 | 视公司规模与个人业绩；外企体系更稳定 |
+| 品牌总监 | 80-150 万 | 头部公司含奖金与期权；新消费公司弹性更大 |
+
+> 以上为 2026 年快消行业招聘平台与 offer 样本的常见区间，实际以实时招聘信息和面试评估为准。薪资受城市、公司量级、负责品牌体量影响；新消费创业公司常以"底薪+期权"结构出现。
+
+## 9. 面试高频问题
+
+**Q1："为什么想来做品牌？给你一个我们没做好的产品，你怎么办？"（考察商业思维与主动性）**
+思路：①先展示你对品牌工作的理解——不是做广告，是对生意负责；②对"没做好的产品"按"定位是否清晰→需求是否真实→渠道是否匹配→传播是否有效"四步拆解；③给出 1 个最可能的原因和 1 个可执行的初步案；④表现"我很想解决这个问题"的态度。
+
+**Q2："分享一个你印象深刻的 Campaign，它为什么成功？"（考察案例积累）**
+思路：选一个真实案例（瑞幸联名、蜜雪冰城、老牌焕新等），用"目标—策略—执行—数据结果"四段讲清楚；关键是要说出**数据**（销量/声量/复购的变化），别只描述创意本身。
+
+**Q3："新品上市 3 个月不达预期，你怎么办？"（考察复盘与解决能力）**
+思路：①先区分是铺货问题、定价问题还是认知问题——用数据定位；②短期动作：促销清库存、渠道补货、调整媒介；③中期动作：回到消费者反馈修正定位或产品；④坦诚复盘"当初哪一步判断有问题"，体现ownership。
+
+**Q4："品牌广告和效果广告怎么分配预算？"（考察营销理解）**
+思路：①讲清两者逻辑差异（品牌广告建心智、效果广告拿转化）；②按品牌阶段给比例：新品牌起量偏效果、成熟品牌保心智偏品牌；③强调"品效合一"趋势与数据归因的难点；④给出可落地的测试方案（如小预算分区测试）。
+
+> 参考思路为快消行业通用面试方法论整理，数据口径同前文各模块。
+
+---
+
+## 术语速览表
+
+| 术语 | 通俗解释 |
+|---|---|
+| [[Campaign]] | 某品牌围绕一个主题策划的系列营销活动（广告+社媒+线下），是品牌经理最常操盘的项目单元 |
+| [[4P]] | 营销经典框架：产品（Product）、价格（Price）、渠道（Place）、促销（Promotion），品牌策略的基本分析维度 |
+| [[STP]] | 市场细分、目标市场选择、品牌定位三步方法论：先分人群、再选人群、再占位置 |
+| [[ROI]] | 投资回报率：营销投入带来的产出（收入/利润）与成本之比，品牌经理算账的核心指标 |
+| [[KOL]] | 关键意见领袖：有影响力的达人，品牌通过达人内容种草触达目标人群 |
+| [[铺货率]] | 卖进渠道的终端占目标终端总数的比例，衡量"消费者能不能买到"的核心指标 |
+| [[品效合一]] | 品牌传播与销售转化一体化的策略——既要声量又要销量，当前广告主预算分配的主流逻辑 |
+| [[私域]] | 品牌自有的用户运营阵地（社群、小程序、企微），反复触达、降低获客成本 |
+| [[NPD]] | New Product Development，新品开发：从 idea 到上市的全流程项目，品牌经理是总协调人 |
+
+> 速览表术语释义综合自快消营销行业通用概念与公开资料。6:["$","article",null,{"className":"page-body","children":[["$","$L3",null,{"className":"back-link","href":"/","children":"← 返回行业列表"}],["$","header",null,{"style":{"marginTop":12},"children":[["$","h1",null,{"style":{"fontSize":28,"margin":0},"children":["品牌经理",["$","span",null,{"className":"muted","style":{"fontSize":15,"fontWeight":400,"marginLeft":10},"children":"Brand Manager"}]]}],["$","p",null,{"className":"muted","style":{"marginTop":4},"children":"品牌资产和生意增长的操盘手"}]]}],["$","section",null,{"className":"job-meta","style":{"margin":"16px 0"},"children":[["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"所属行业"}],["$","$L3",null,{"href":"/industry/fmcg-consumer","className":"chain-chip","children":["快消与新消费"," →"]}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"入行层级"}],["$","strong",null,{"children":"进阶"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"薪资区间"}],["$","strong",null,{"children":"15-40K·13-15薪"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"学历要求"}],["$","strong",null,{"children":"本科及以上"}]]}],["$","div",null,{"className":"job-meta__item","children":[["$","span",null,{"className":"job-meta__label","children":"经验门槛"}],["$","strong",null,{"children":"一般需 2-5 年市场/品牌经验，校招可走管理培训生"}]]}],["$","div",null,{"className":"job-meta__item job-meta__item--full","children":[["$","span",null,{"className":"job-meta__label","children":"代表雇主"}],["$","div",null,{"className":"tags","children":[["$","span","宝洁",{"className":"tag","children":"宝洁"}],["$","span","欧莱雅",{"className":"tag","children":"欧莱雅"}],["$","span","联合利华",{"className":"tag","children":"联合利华"}],["$","span","农夫山泉",{"className":"tag","children":"农夫山泉"}],["$","span","元气森林",{"className":"tag","children":"元气森林"}]]}]]}]]}],["$","$L11",null,{"content":"$12"}],"$L13"]}]
+13:["$","section",null,{"style":{"marginTop":32,"paddingBottom":24},"children":[["$","h2",null,{"className":"module-title","children":["相关岗位 ",["$","code",null,{"children":[4," 个"]}]]}],["$","div",null,{"className":"tags","children":[["$","$L3","consumer-insight-researcher",{"href":"/job/consumer-insight-researcher","className":"job-chip","children":"消费者洞察研究员"}],["$","$L3","content-marketer",{"href":"/job/content-marketer","className":"job-chip","children":"内容营销经理"}],["$","$L3","ecommerce-operator",{"href":"/job/ecommerce-operator","className":"job-chip","children":"电商运营经理"}],["$","$L3","channel-sales",{"href":"/job/channel-sales","className":"job-chip","children":"渠道销售经理"}]]}],["$","p",null,{"style":{"marginTop":16},"children":["$","$L3",null,{"href":"/industry/fmcg-consumer","className":"chain-chip","children":["查看「","快消与新消费","」全部岗位 →"]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"品牌经理（快消与新消费） | 行业认知科普"}],["$","meta","1",{"name":"description","content":"品牌经理做什么、一天怎么过、要求什么、怎么入行：从品牌定位、Campaign企划、媒介投放、渠道联动到ROI复盘，一文看清快消品牌经理的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","2",{"name":"keywords","content":"品牌经理,品牌,营销,Campaign,快消,市场部,品牌定位"}],["$","meta","3",{"property":"og:title","content":"品牌经理：岗位一天体验与入行指南"}],["$","meta","4",{"property":"og:description","content":"品牌经理做什么、一天怎么过、要求什么、怎么入行：从品牌定位、Campaign企划、媒介投放、渠道联动到ROI复盘，一文看清快消品牌经理的真实工作、必备技能、薪资区间与面试思路。"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"品牌经理：岗位一天体验与入行指南"}],["$","meta","8",{"name":"twitter:description","content":"品牌经理做什么、一天怎么过、要求什么、怎么入行：从品牌定位、Campaign企划、媒介投放、渠道联动到ROI复盘，一文看清快消品牌经理的真实工作、必备技能、薪资区间与面试思路。"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
